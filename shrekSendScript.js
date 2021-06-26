@@ -26,3682 +26,4211 @@ function enviarScript(scriptText){
     }, 250)
 }
 
-enviarScript(`SHREK
+enviarScript(´HARRY POTTER
 
-Written by
+HARRY POTTER AND THE SORCERER'S STONE
+                          
 
-William Steig & Ted Elliott
 
 
 
+                                     DUMBLEDORE
 
-SHREK
-Once upon a time there was a lovely 
-princess. But she had an enchantment 
-upon her of a fearful sort which could 
-only be broken by love's first kiss. 
-She was locked away in a castle guarded 
-by a terrible fire-breathing dragon. 
-Many brave knights had attempted to 
-free her from this dreadful prison, 
-but non prevailed. She waited in the 
-dragon's keep in the highest room of 
-the tallest tower for her true love 
-and true love's first kiss. (laughs) 
-Like that's ever gonna happen. What 
-a load of - (toilet flush)
+                         I should've known you would have been 
+                         here Professor McGonagall.
+ 
+                                     MCGONAGALL
 
-Allstar - by Smashmouth begins to play. Shrek goes about his 
-day. While in a nearby town, the villagers get together to go 
-after the ogre.
+                         Good evening Professor Dumbledore. Are 
+                         the rumors true Albus?
+ 
+                                     DUMBLEDORE
 
-NIGHT - NEAR SHREK'S HOME
+                         I'm afraid so Professor. The good and 
+                         the bad.
+ 
+                                     MCGONAGALL
 
-MAN1
-Think it's in there?
+                         And the boy?
 
-MAN2
-All right. Let's get it!
+                                     DUMBLEDORE
 
-MAN1
-Whoa. Hold on. Do you know what that 
-thing can do to you?
+                         Hagrid is bringing him.
 
-MAN3
-Yeah, it'll grind your bones for it's 
-bread.
+                                     MCGONAGALL
 
-Shrek sneaks up behind them and laughs.
+                         Do you think it wise to trust Hagrid 
+                         w/ something as important as this?
+ 
+                         
+                                     DUMBLEDORE
 
-SHREK
-Yes, well, actually, that would be a 
-giant. Now, ogres, oh they're much worse. 
-They'll make a suit from your freshly 
-peeled skin.
+                         Ah, Prof. I would trust Hagrid w/ my 
+                         life
+ 
+                                     HAGRID
 
-MEN
-No!
+                         Professor. Dumbledore, sir. Professor 
+                         McGonagall.
+ 
+                                     DUMBLEDORE
 
-SHREK
-They'll shave your liver. Squeeze the 
-jelly from your eyes! Actually, it's 
-quite good on toast.
+                         No problems I trust Hagrid?
 
-MAN1
-Back! Back, beast! Back! I warn ya! 
-(waves the torch at Shrek.)
+                                     HAGRID
 
-Shrek calmly licks his fingers and extinguishes the torch. The 
-men shrink back away from him. Shrek roars very loudly and long 
-and his breath extinguishes all the remaining torches until the 
-men are in the dark.
+                         No, sir. Little tyke fell asleep as 
+                         we were flying over Bristol. Try not 
+                         to wake him. There you go.
+ 
+                                     MCGONAGALL 
 
-SHREK
-This is the part where you run away. 
-(The men scramble to get away. He laughs.) 
-And stay out! (looks down and picks 
-up a piece of paper. Reads.) "Wanted. 
-Fairy tale creatures."(He sighs and 
-throws the paper over his shoulder.)
+                         Albus, do really think it's safe leaving 
+                         him with these people? I've watched 
+                         them all day. There're the worst sort 
+                         of Muggles imaginable. They really are- 
+                         -
+ 
+                                     DUMBLEDORE
 
+                         The only family he has.
 
-THE NEXT DAY
+                                     MCGONAGALL
 
-There is a line of fairy tale creatures. The head of the guard 
-sits at a table paying people for bringing the fairy tale creatures 
-to him. There are cages all around. Some of the people in line 
-are Peter Pan, who is carrying Tinkerbell in a cage, Gipetto 
-who's carrying Pinocchio, and a farmer who is carrying the three 
-little pigs.
+                         This boy will be famous. There won't 
+                         be a child in our world who doesn't 
+                         know his name.
+ 
+                                     DUMBLEDORE
 
-GUARD
-All right. This one's full. Take it 
-away! Move it along. Come on! Get up!
+                         Exactly. He's far better off growing 
+                         up away from all of that. Until he is 
+                         ready. There, there Hagrid. It's not 
+                         really goodbye after all. Good Luck, 
+                         Harry Potter.
+ 
+                                     
 
+                         
+                                     
 
-HEAD GUARD
-Next!
+                         - - - -
 
-GUARD
-(taking the witch's broom) Give me that! 
-Your flying days are over. (breaks the 
-broom in half)
+                                     AUNT PETUNIA
 
-HEAD GUARD
-That's 20 pieces of silver for the witch. 
-Next!
+                         Up. Get up! Now!
 
-GUARD
-Get up! Come on!
+                                     DUDLEY
 
-HEAD GUARD
-Twenty pieces.
+                         Wake up cousin! We're going to the zoo!
+ 
+                         
+                                     AUNT PETUNIA
 
-LITTLE BEAR
-(crying) This cage is too small.
+                         Here he comes the birthday boy!
 
-DONKEY
-Please, don't turn me in. I'll never 
-be stubborn again. I can change. Please! 
-Give me another chance!
+                                     UNCLE VERNON
 
-OLD WOMAN
-Oh, shut up. (jerks his rope)
+                         happy birthday son.
 
-DONKEY
-Oh!
+                                     AUNT PETUNIA
 
-HEAD GUARD
-Next! What have you got?
+                         Why don't you just cook the breakfast 
+                         and try not to burn anything.
+ 
+                                     HARRY
 
-GIPETTO
-This little wooden puppet.
+                         Yes Aunt Petunia.
 
-PINOCCHIO
-I'm not a puppet. I'm a real boy. (his 
-nose grows)
+                                     AUNT PETUNIA
 
-HEAD GUARD
-Five shillings for the possessed toy. 
-Take it away.
+                         I want everything to be perfect for 
+                         my Dudley's special day!
+ 
+                                     UNCLE VERNON
 
-PINOCCHIO
-Father, please! Don't let them do this! 
-Help me!
+                         Hurry up! Bring my coffee boy!
 
-Gipetto takes the money and walks off. The old woman steps up 
-to the table.
+                                     HARRY
 
-HEAD GUARD
-Next! What have you got?
+                         yes Uncle Vernon.
 
-OLD WOMAN
-Well, I've got a talking donkey.
+                                     AUNT PETUNIA
 
-HEAD GUARD
-Right. Well, that's good for ten shillings, 
-if you can prove it.
+                         Aren't they wonderful darling?
 
-OLD WOMAN
-Oh, go ahead, little fella.
+                                     DUDLEY
 
-Donkey just looks up at her.
+                         How many are there?
 
-HEAD GUARD
-Well?
+                                     UNCLE VERNON
 
-OLD WOMAN
-Oh, oh, he's just...he's just a little 
-nervous. He's really quite a chatterbox. 
-Talk, you boneheaded dolt...
+                         36, Counted them myself.
 
-HEAD GUARD
-That's it. I've heard enough. Guards!
+                                     DUDLEY
 
+                         36?! BUT LAST YEAR LAST YEAR I HAD 37!!!
+ 
+                                     UNCLE VERNON
 
-OLD WOMAN
-No, no, he talks! He does. (pretends 
-to be Donkey) I can talk. I love to 
-talk. I'm the talkingest damn thing 
-you ever saw.
+                         Yes, but some of them are a bit bigger 
+                         than last year's!
+ 
+                                     DUDLEY
 
-HEAD GUARD
-Get her out of my sight.
+                         I don't care how big they are!
 
-OLD WOMAN
-No, no! I swear! Oh! He can talk!
+                                     AUNT PETUNIA
 
-The guards grab the old woman and she struggles with them. One 
-of her legs flies out and kicks Tinkerbell out of Peter Pan's 
-hands, and her cage drops on Donkey's head. He gets sprinkled 
-with fairy dust and he's able to fly.
+                         Now, now, now, this is what we're going 
+                         to do. Is that when we go out we're 
+                         going to buy you 2 new presents. How's 
+                         that pumpkin?
+ 
+                                     
 
-DONKEY
-Hey! I can fly!
+                         
+                                     AUNT PETUNIA
 
-PETER PAN
-He can fly!
+                         It should be a lovely day at the zoo. 
+                         I'm really looking forward to it.
+ 
+                         
+                                     UNCLE VERNON
 
-3 LITTLE PIGS
-He can fly!
+                         I'm warning you now boy. Any funny business, 
+                         any at all and you won't have any meals 
+                         for a week. Get in.
+ 
+                                     
 
-HEAD GUARD
-He can talk!
+                         
+                                     DUDLEY
 
-DONKEY
-Ha, ha! That's right, fool! Now I'm 
-a flying, talking donkey. You might 
-have seen a housefly, maybe even a superfly 
-but I bet you ain't never seen a donkey 
-fly. Ha, ha! (the pixie dust begins 
-to wear off) Uh-oh. (he begins to sink 
-to the ground.)
+                         Make it move.
 
-He hits the ground with a thud.
+                                     UNCLE VERNON
 
-HEAD GUARD
-Seize him! (Donkey takes of running.) 
-After him!
+                         Move.
 
-GUARDS
-He's getting away! Get him! This way! 
-Turn!
+                                     DUDLEY
 
-Donkey keeps running and he eventually runs into Shrek. Literally. 
-Shrek turns around to see who bumped into him. Donkey looks scared 
-for a moment then he spots the guards coming up the path. He 
-quickly hides behind Shrek.
+                         MOVE!
 
-HEAD GUARD
-You there. Ogre!
+                                     HARRY
 
-SHREK
-Aye?
+                         He's asleep.
 
-HEAD GUARD
-By the order of Lord Farquaad I am authorized 
-to place you both under arrest and transport 
-you to a designated resettlement facility.
+                                     DUDLEY
 
+                         He's boring.
 
-SHREK
-Oh, really? You and what army?
+                                     HARRY
 
-He looks behind the guard and the guard turns to look as well 
-and we see that the other men have run off. The guard tucks tail 
-and runs off. Shrek laughs and goes back about his business and 
-begins walking back to his cottage.
+                         Sorry about him he doesn't understand 
+                         what it's like, lying there day after 
+                         day watching people press their ugly 
+                         faces in on you. Can you hear me? It's 
+                         just I've never talked to a snake before. 
+                         Do you... Do you talk to people often? 
+                         You're from Burma, aren't you? Was it 
+                         nice there? Did you miss your family? 
+                         I see. That's me as well. I never knew 
+                         my parents either.
+ 
+                                     DUDLEY
 
-DONKEY
-Can I say something to you? Listen, 
-you was really, really, really somethin' 
-back here. Incredible!
+                         Mummy, Dad, come here you won't believe 
+                         what this snake is doing! Woah! Woah! 
+                         Ah!
+ 
+                                     SNAKE
 
-SHREK
-Are you talkin' to...(he turns around 
-and Donkey is gone) me? (he turns back 
-around and Donkey is right in front 
-of him.) Whoa!
+                         Thanks.
 
-DONKEY
-Yes. I was talkin' to you. Can I tell 
-you that you that you was great back 
-here? Those guards! They thought they 
-was all of that. Then you showed up, 
-and bam! They was trippin' over themselves 
-like babes in the woods. That really 
-made me feel good to see that.
+                                     HARRY
 
-SHREK
-Oh, that's great. Really.
+                         Any time.
 
-DONKEY
-Man, it's good to be free.
-
-SHREK
-Now, why don't you go celebrate your 
-freedom with your own friends? Hmm?
+                                     OTH
 
+                         Snake! Ahh!
 
-DONKEY
-But, uh, I don't have any friends. And 
-I'm not goin' out there by myself. Hey, 
-wait a minute! I got a great idea! I'll 
-stick with you. You're mean, green, 
-fightin' machine. Together we'll scare 
-the spit out of anybody that crosses 
-us.
-
-Shrek turns and regards Donkey for a moment before roaring very 
-loudly.
+                                     DUDLEY
 
-DONKEY
-Oh, wow! That was really scary. If you 
-don't mind me sayin', if that don't 
-work, your breath certainly will get 
-the job done, 'cause you definitely 
-need some Tic Tacs or something, 'cause 
-you breath stinks! You almost burned 
-the hair outta my nose, just like the 
-time...(Shrek covers his mouth but Donkey 
-continues to talk, so Shrek removes 
-his hand.) ...then I ate some rotten 
-berries. I had strong gases leaking 
-out of my butt that day.
+                         Mum! Mummy! Help me!
 
-SHREK
-Why are you following me?
-
-DONKEY
-I'll tell you why. (singing) 'Cause 
-I'm all alone, There's no one here beside 
-me, My problems have all gone, There's 
-no one to deride me, But you gotta have 
-faith...
+                                     PERCY
 
-SHREK
-Stop singing! It's no wonder you don't 
-have any friends.
+                         My darling boy! How did you get in there! 
+                         Who did this? How did you get in there? 
+                         Is there a snake?
+ 
+                                     
 
-DONKEY
-Wow. Only a true friend would be that 
-cruelly honest.
+                         
+                                     
 
-SHREK
-Listen, little donkey. Take a look at 
-me. What am I?
+                         - - - -
 
-DONKEY
-(looks all the way up at Shrek) Uh ...really 
-tall?
+                                     AUNT PETUNIA
 
-SHREK
-No! I'm an ogre! You know. "Grab your 
-torch and pitchforks." Doesn't that 
-bother you?
+                         It's all right sweetheart. We'll get 
+                         you out of these terrible clothes.
+ 
+                         
+                                     UNCLE VERNON
 
-DONKEY
-Nope.
 
-SHREK
-Really?
+                         What happened?
 
-DONKEY
-Really, really.
+                                     HARRY
 
-SHREK
-Oh.
+                         I swear, I don't know! One minute the 
+                         glass was there then it was gone, it 
+                         was like magic!
+ 
+                                     UNCLE VERNON
 
-DONKEY
-Man, I like you. What's you name?
 
-SHREK
-Uh, Shrek.
+                         There's no such thing as magic.
 
-DONKEY
-Shrek? Well, you know what I like about 
-you, Shrek? You got that kind of I-don't-care-what-nobody-thinks-of-me 
-thing. I like that. I respect that, 
-Shrek. You all right. (They come over 
-a hill and you can see Shrek's cottage.) 
-Whoa! Look at that. Who'd want to live 
-in place like that?
+                                     
 
-SHREK
-That would be my home.
+                         
+                                     UNCLE VERNON
 
-DONKEY
-Oh! And it is lovely! Just beautiful. 
-You know you are quite a decorator. 
-It's amazing what you've done with such 
-a modest budget. I like that boulder. 
-That is a nice boulder. I guess you 
-don't entertain much, do you?
 
-SHREK
-I like my privacy.
+                         Oh Marge is ill. Ate a funny whelk.
+ 
+                         
+                                     DUDLEY
 
-DONKEY
-You know, I do too. That's another thing 
-we have in common. Like I hate it when 
-you got somebody in your face. You've 
-trying to give them a hint, and they 
-won't leave. There's that awkward silence. 
-(awkward silence) Can I stay with you?
+                         Dad! Look! Harry's got a letter!
 
+                                     HARRY
 
-SHREK
-Uh, what?
+                         Hey give it back! It's mine!
 
-DONKEY
-Can I stay with you, please?
+                                     UNCLE VERNON
 
-SHREK
-(sarcastically) Of course!
 
-DONKEY
-Really?
+                         Yours? Who'd be writing to you?
 
-SHREK
-No.
+                                     
 
-DONKEY
-Please! I don't wanna go back there! 
-You don't know what it's like to be 
-considered a freak. (pause while he 
-looks at Shrek) Well, maybe you do. 
-But that's why we gotta stick together. 
-You gotta let me stay! Please! Please!
+                         
+                                     UNCLE VERNON
 
 
-SHREK
-Okay! Okay! But one night only.
+                         No more mail through this letterbox.
+ 
+                         
+                                     
 
-DONKEY
-Ah! Thank you! (he runs inside the cottage)
+                         
+                                     AUNT PETUNIA
 
+                         Have a lovely day at the office, dear.
+ 
+                         
+                                     UNCLE VERNON
 
-SHREK
-What are you...? (Donkey hops up onto 
-a chair.) No! No!
 
-DONKEY
-This is gonna be fun! We can stay up 
-late, swappin' manly stories, and in 
-the mornin' I'm makin' waffles.
+                         Shoo! Go on!
 
-SHREK
-Oh!
+                                     
 
-DONKEY
-Where do, uh, I sleep?
+                         
+                                    UNCLE VERNON
 
-SHREK
-(irritated) Outside!
 
-DONKEY
-Oh, well, I guess that's cool. I mean, 
-I don't know you, and you don't know 
-me, so I guess outside is best, you 
-know. Here I go. Good night. (Shrek 
-slams the door.) (sigh) I mean, I do 
-like the outdoors. I'm a donkey. I was 
-born outside. I'll just be sitting by 
-myself outside, I guess, you know. By 
-myself, outside. I'm all alone...there's 
-no one here beside me...
+                         Fine day Sunday. In my opinion best 
+                         day of the week. And why is that Dudley?
+ 
+                         
+                                     HARRY
 
-SHREK'S COTTAGE - NIGHT
+                         Because there's no post on Sundays.
+ 
+                         
+                                    UNCLE VERNON
 
-Shrek is getting ready for dinner. He sits himself down and lights 
-a candle made out of earwax. He begins to eat when he hears a 
-noise. He stands up with a huff.
 
-SHREK
-(to Donkey) I thought I told you to 
-stay outside.
+                         Right you are Harry. No post on Sunday. 
+                         Ha! No blasted letters today! No, sir! 
+                         Not one single bloody letter! Not one! 
+                         No sir, not one blasted, miserable- 
+                         -
+ 
+                                     DUDLEY
 
-DONKEY
-(from the window) I am outside.
+                         Make it stop, please!
 
-There is another noise and Shrek turns to find the person that 
-made the noise. He sees several shadows moving. He finally turns 
-and spots 3 blind mice on his table.
+                                     UNCLE VERNON
 
-BLIND MOUSE1
-Well, gents, it's a far cry from the 
-farm, but what choice do we have?
 
+                         Stop it!
 
-BLIND MOUSE2
-It's not home, but it'll do just fine.
+                                     DUDLEY
 
+                         Mummy what's happening?
 
-GORDO
-(bouncing on a slug) What a lovely bed.
+                                     UNCLE VERNON
 
 
-SHREK
-Got ya. (Grabs a mouse, but it escapes 
-and lands on his shoulder.)
+                         Give me that! Give me that letter!
+ 
+                         
+                                     HARRY
 
-GORDO
-I found some cheese. (bites Shrek's 
-ear)
+                         Get off! They're my letters! Let go 
+                         of me!
+ 
+                                     UNCLE VERNON
 
-SHREK
-Ow!
 
-GORDO
-Blah! Awful stuff.
+                         That's it! We're going away, far away! 
+                         Where they can't find us!
+ 
+                                     DUDLEY
 
-BLIND MOUSE1
-Is that you, Gordo?
+                         Daddy's gone mad hasn't he?
 
-GORDO
-How did you know?
+                                     
 
-SHREK
-Enough! (he grabs the 3 mice) What are 
-you doing in my house? (He gets bumped 
-from behind and he drops the mice.) 
-Hey! (he turns and sees the Seven Dwarves 
-with Snow White on the table.) Oh, no, 
-no, no. Dead broad off the table.
+                         - - - -
 
+                                     HARRY
 
-DWARF
-Where are we supposed to put her? The 
-bed's taken.
+                         Make a wish, Harry.
 
-SHREK
-Huh?
+                                    UNCLE VERNON
 
-Shrek marches over to the bedroom and throws back the curtain. 
-The Big Bad Wolf is sitting in the bed. The wolf just looks at 
-him.
 
-BIG BAD WOLF
-What?
+                         Who's there?
 
-TIME LAPSE
+                                     HAGRID
 
-Shrek now has the Big Bad Wolf by the collar and is dragging 
-him to the front door.
+                         Sorry 'bout that.
 
-SHREK
-I live in a swamp. I put up signs. I'm 
-a terrifying ogre! What do I have to 
-do get a little privacy? (He opens the 
-front door to throw the Wolf out and 
-he sees that all the collected Fairy 
-Tale Creatures are on his land.) Oh, 
-no. No! No!
+                                     UNCLE VERNON
 
-The 3 bears sit around the fire, the pied piper is playing his 
-pipe and the rats are all running to him, some elves are directing 
-flight traffic so that the fairies and witches can land...etc.
 
+                         I demand that you leave at once. You 
+                         are breaking and entering.
+ 
+                                     HAGRID
 
-SHREK
-What are you doing in my swamp? (this 
-echoes and everyone falls silent.)
+                         Dry up Dursley you great prune. Well, 
+                         I haven't seen you since you was a baby 
+                         Harry. But you're a bit more along then 
+                         I would have expected; particularly 
+                         around the middle.
+ 
+                                     DUDLEY
 
+                         I'm not... I'm not Harry.
 
-Gasps are heard all around. The 3 good fairies hide inside a 
-tent.
+                                     HARRY
 
-SHREK
-All right, get out of here. All of you, 
-move it! Come on! Let's go! Hapaya! 
-Hapaya! Hey! Quickly. Come on! (more 
-dwarves run inside the house) No, no! 
-No, no. Not there. Not there. (they 
-shut the door on him) Oh! (turns to 
-look at Donkey)
+                         I am.
 
-DONKEY
-Hey, don't look at me. I didn't invite 
-them.
+                                     HAGRID
 
-PINOCCHIO
-Oh, gosh, no one invited us.
+                         Well of course you are! Got something 
+                         for you. Afraid I might have sat on 
+                         it at some point but I imagine it'll 
+                         taste fine just the same. Baked it myself, 
+                         words and all.
+ 
+                                     HARRY
 
-SHREK
-What?
+                         Thank you!
 
-PINOCCHIO
-We were forced to come here.
+                                     HAGRID
 
-SHREK
-(flabbergasted) By who?
+                         It's not everyday your young man turns 
+                         11 now it is?
+ 
+                                     HARRY
 
-LITTLE PIG
-Lord Farquaad. He huffed and he puffed 
-and he...signed an eviction notice.
+                         Excuse me, but who are you?
 
+                                     HAGRID
 
-SHREK
-(heavy sigh) All right. Who knows where 
-this Farquaad guy is?
+                         Rubeus Hagrid, Keeper of Keys and Grounds 
+                         at Hogwarts. Of course you know all 
+                         about Hogwarts
+ 
+                                     HARRY
 
-Everyone looks around at each other but no one answers.
+                         Sorry, no.
 
-DONKEY
-Oh, I do. I know where he is.
+                                     HAGRID
 
-SHREK
-Does anyone else know where to find 
-him? Anyone at all?
+                         No? Blimey Harry didn't you ever wonder 
+                         didn't you ever wonder how your mum 
+                         and dad learned it all?
+ 
+                                     HARRY
 
-DONKEY
-Me! Me!
+                         Learned what?
 
-SHREK
-Anyone?
+                                     HAGRID
 
-DONKEY
-Oh! Oh, pick me! Oh, I know! I know! 
-Me, me!
+                         You're a wizard Harry.
 
-SHREK
-(sigh) Okay, fine. Attention, all fairy 
-tale things. Do not get comfortable. 
-Your welcome is officially worn out. 
-In fact, I'm gonna see this guy Farquaad 
-right now and get you all off my land 
-and back where you came from! (Pause. 
-Then the crowd goes wild.) Oh! (to Donkey) 
-You! You're comin' with me.
+                                     HARRY
 
-DONKEY
-All right, that's what I like to hear, 
-man. Shrek and Donkey, two stalwart 
-friends, off on a whirlwind big-city 
-adventure. I love it!
+                         I'm a what?
 
-DONKEY
-(singing) On the road again. Sing it 
-with me, Shrek. I can't wait to get 
-on the road again.
+                                     HAGRID
 
-SHREK
-What did I say about singing?
+                         A wizard. And a thumpin' good one I'd 
+                         wager once you've trained up a bit.
+ 
+                         
+                                     HARRY
 
-DONKEY
-Can I whistle?
+                         No, you've made a mistake. I mean I 
+                         can't be a wizard... I mean I'm Harry, 
+                         Just Harry.
+ 
+                                     HAGRID
 
-SHREK
-No.
+                         Well, "Just Harry" did you ever make 
+                         anything happen? Anything you couldn't 
+                         explain, when you were angry or scared? 
+                         Um Hum.
+ 
+                                     HARRY
 
-DONKEY
-Can I hum it?
+                         Dear Mr. Potter, we are pleased to inform 
+                         you that you have been accepted at the 
+                         Hogwarts School of Witchcraft and Wizardry.
+ 
+                         
+                                     UNCLE VERNON
 
-SHREK
-All right, hum it.
 
-Donkey begins to hum 'On the Road Again'.
+                         He will not be going! We swore when 
+                         we took him in that we would put a stop 
+                         to all of this rubbish!
+ 
+                                     HARRY
 
-DULOC - KITCHEN
+                         You knew? We knew all along and you 
+                         never told me?
+ 
+                                     AUNT PETUNIA
 
-A masked man is torturing the Gingerbread Man. He's continually 
-dunking him in a glass of milk. Lord Farquaad walks in.
+                         Of course we knew. How could you not 
+                         be? My perfect being who she was. Oh 
+                         I remember the day she got her letter. 
+                         My parents were so proud. We have a 
+                         witch in the family. Isn't it wonderful? 
+                         I was the only one who saw her for what 
+                         she was... a freak. And then she met 
+                         that Potter, and then she had you and 
+                         I knew you would be the same just as 
+                         strange just as abnormal. And then, 
+                         if you please, she got herself blown 
+                         up, and we got landed with you.
+ 
+                                     HARRY
 
-FARQUAAD
-That's enough. He's ready to talk.
+                         Blown up?! You told me my parents died 
+                         in a car crash!
+ 
+                                     HAGRID
 
+                         A car crash? A car crash killed Lily 
+                         and James Potter?
+ 
+                                     AUNT PETUNIA
 
-The Gingerbread Man is pulled out of the milk and slammed down 
-onto a cookie sheet. Farquaad laughs as he walks over to the 
-table. However when he reaches the table we see that it goes 
-up to his eyes. He clears his throat and the table is lowered.
+                         We had to say something!
 
+                                     HAGRID
 
-FARQUAAD
-(he picks up the Gingerbread Man's legs 
-and plays with them) Run, run, run, 
-as fast as you can. You can't catch 
-me. I'm the gingerbread man.
+                         It's an outrage. It's a scandal.
 
-GINGERBREAD MAN
-You are a monster.
+                                     UNCLE VERNON
 
-FARQUAAD
-I'm not the monster here. You are. You 
-and the rest of that fairy tale trash, 
-poisoning my perfect world. Now, tell 
-me! Where are the others?
 
-GINGERBREAD MAN
-Eat me! (He spits milk into Farquaad's 
-eye.)
+                         He will not be going.
 
-FARQUAAD
-I've tried to be fair to you creatures. 
-Now my patience has reached its end! 
-Tell me or I'll...(he makes as if to 
-pull off the Gingerbread Man's buttons)
+                                     HAGRID
 
+                         Oh and I suppose a great Muggle like 
+                         yourself is gonna stop him.
+ 
+                                     HARRY
 
-GINGERBREAD MAN
-No, no, not the buttons. Not my gumdrop 
-buttons.
+                         Muggle?
 
-FARQUAAD
-All right then. Who's hiding them?
+                                     HAGRID
 
+                         Non- magic folk. This boy's had his 
+                         name down since he were born. He's going 
+                         to the finest school of witchcraft and 
+                         wizardry in the world. And he'll be 
+                         under the finest headmaster that Hogwarts 
+                         has ever seen, Albus Dumbledore...
+ 
+                         
+                                     UNCLE VERNON
 
-GINGERBREAD MAN
-Okay, I'll tell you. Do you know the 
-muffin man?
 
-FARQUAAD
-The muffin man?
+                         I will not pay to have some crack pot 
+                         old fool teach him magic tricks!
+ 
+                                     HAGRID
 
-GINGERBREAD MAN
-The muffin man.
+                         Never insult Albus Dumbledore in front 
+                         of me... I'd appreciate it if you didn't 
+                         tell anyone at Hogwarts about that. 
+                         Strictly speaking I'm not supposed to 
+                         do magic.
+ 
+                                     HARRY
 
-FARQUAAD
-Yes, I know the muffin man, who lives 
-on Drury Lane?
+                         OK
 
-GINGERBREAD MAN
-Well, she's married to the muffin man.
+                                     HAGRID
 
+                         We're a bit behind schedule. Best be 
+                         off. Unless you'd rather stay, of course. 
+                         
+ 
+                                     
 
-FARQUAAD
-The muffin man?
+                         - - - -
 
-GINGERBREAD MAN
-The muffin man!
+                                     HARRY
 
-FARQUAAD
-She's married to the muffin man.
+                         All students must be equipped with a 
+                         one standard size two pewter cauldron, 
+                         and may bring, if they desire, either 
+                         an owl, a cat, or a toad. Can we find 
+                         all this in London?
+ 
+                                     HAGRID
 
-The door opens and the Head Guard walks in.
+                         If you know where to go.
 
-HEAD GUARD
-My lord! We found it.
+                                     TOM (BARTENDER)
 
-FARQUAAD
-Then what are you waiting for? Bring 
-it in.
+                         Ah, Hagrid the usual I presume.
 
-More guards enter carrying something that is covered by a sheet. 
-They hang up whatever it is and remove the sheet. It is the Magic 
-Mirror.
+                                     HAGRID
 
-GINGERBREAD MAN
-(in awe) Ohhhh...
+                         No thanks Tom, I'm on official Hogwarts 
+                         business. Just helping young Harry buy 
+                         his school business.
+ 
+                                     TOM
 
-FARQUAAD
-Magic mirror...
+                         Bless my soul, it's Harry Potter.
 
-GINGERBREAD MAN
-Don't tell him anything! (Farquaad picks 
-him up and dumps him into a trash can 
-with a lid.) No!
+                                     OTHER
 
-FARQUAAD
-Evening. Mirror, mirror on the wall. 
-Is this not the most perfect kingdom 
-of them all?
+                         Welcome back Mr. Potter welcome back.
+ 
+                         
+                                     DORIS
 
-MIRROR
-Well, technically you're not a king.
+                         Doris Crockford, Mr. Potter. I can't 
+                         believe I'm meeting you at last.
+ 
+                                     QUIRRELL
 
+                         Harry P-p-potter. C-can't tell you how 
+                         p-pleased I am to meet you.
+ 
+                                     HAGRID
 
-FARQUAAD
-Uh, Thelonius. (Thelonius holds up a 
-hand mirror and smashes it with his 
-fist.) You were saying?
+                         hello, professor I didn't see you there. 
+                         Harry Professor Quirrell will be your 
+                         defense Against the Dark Arts teacher.
+ 
+                         
+                                     HARRY
 
-MIRROR
-What I mean is you're not a king yet. 
-But you can become one. All you have 
-to do is marry a princess.
+                         Oh, nice to meet you,
 
-FARQUAAD
-Go on.
+                                     QUIRRELL
 
-MIRROR
-(chuckles nervously) So, just sit back 
-and relax, my lord, because it's time 
-for you to meet today's eligible bachelorettes. 
-And here they are! Bachelorette number 
-one is a mentally abused shut-in from 
-a kingdom far, far away. She likes sushi 
-and hot tubbing anytime. Her hobbies 
-include cooking and cleaning for her 
-two evil sisters. Please welcome Cinderella. 
-(shows picture of Cinderella) Bachelorette 
-number two is a cape-wearing girl from 
-the land of fancy. Although she lives 
-with seven other men, she's not easy. 
-Just kiss her dead, frozen lips and 
-find out what a live wire she is. Come 
-on. Give it up for Snow White! (shows 
-picture of Snow White) And last, but 
-certainly not last, bachelorette number 
-three is a fiery redhead from a dragon-guarded 
-castle surrounded by hot boiling lava! 
-But don't let that cool you off. She's 
-a loaded pistol who likes pina colads 
-and getting caught in the rain. Yours 
-for the rescuing, Princess Fiona! (Shows 
-picture of Princess Fiona) So will it 
-be bachelorette number one, bachelorette 
-number two or bachelorette number three?
+                         A fearfully fascinating subject. N-not 
+                         that you need it, eh, P-potter?
+ 
+                                     HAGRID
 
+                         Yes, well must be going now. Lots to 
+                         buy.
+ 
+                                     HARRY
 
-GUARDS
-Two! Two! Three! Three! Two! Two! Three!
+                         Good bye.
 
+                                     HAGRID
 
-FARQUAAD
-Three? One? Three?
+                         See, Harry? You're famous.
 
-THELONIUS
-Three! (holds up 2 fingers) Pick number 
-three, my lord!
+                                     HARRY
 
-FARQUAAD
-Okay, okay, uh, number three!
+                         But why am I famous Hagrid? All those 
+                         people back there how is it they know 
+                         who I am?
+ 
+                                     HAGRID
 
-MIRROR
-Lord Farquaad, you've chosen Princess 
-Fiona.
+                         I'm not exactly sure I'm the right person 
+                         to tell you that, Harry. Welcome Harry, 
+                         to Diagon Alley. That's where you get 
+                         your quills and ink. Over there, all 
+                         your bits and bobs for doing wizardry.
+ 
+                         
+                                     OTH
 
-FARQUAAD
-Princess Fiona. She's perfect. All I 
-have to do is just find someone who 
-can go...
+                         It's a world class racing broom.
 
-MIRROR
-But I probably should mention the little 
-thing that happens at night.
+                                     OTH
 
-FARQUAAD
-I'll do it.
+                          Wow! Look at it the new Nimbus 2000! 
+                         It's the fastest model yet!
+ 
+                                     HARRY
 
-MIRROR
-Yes, but after sunset...
+                         But Hagrid how am I to pay for all this? 
+                         I haven't any money.
+ 
+                                     HAGRID
 
-FARQUAAD
-Silence! I will make this Princess Fiona 
-my queen, and DuLoc will finally have 
-the perfect king! Captain, assemble 
-your finest men. We're going to have 
-a tournament. (smiles evilly)
+                         Well there's your money Harry! Gringotts, 
+                         the wizard bank! Ain't no safer place, 
+                         not one! 'Cept perhaps Hogwarts.
+ 
+                                     HARRY
 
-DuLoc Parking Lot - Lancelot Section
+                         Hagrid what exactly are these things?
+ 
+                         
+                                     HAGRID
 
-Shrek and Donkey come out of the field that is right by the parking 
-lot. The castle itself is about 40 stories high.
+                         They're goblins Harry. Clever as they 
+                         come the goblins, but not the most friendly 
+                         of beasts. Best stay close. Mr. Harry 
+                         Potter wishes to make a withdrawal
+ 
+                         
+                                     GOBLIN
 
-DONKEY
-But that's it. That's it right there. 
-That's DuLoc. I told ya I'd find it.
+                         And does Mr. Harry Potter have his key?
+ 
+                         
+                                     HAGRID
 
+                         Wait a minute. Got it here somewhere. 
+                         Ha! There's the little devil. Oh, and 
+                         there's something else as well. Professor 
+                         Dumbledore gave me this. It's about 
+                         You- Know- What in vault you know which.
+ 
+                         
+                                     GOBLIN
 
-SHREK
-So, that must be Lord Farquaad's castle.
+                         Very well.
 
+                                     GRIPHOOK
 
-DONKEY
-Uh-huh. That's the place.
+                         Vault 687. Lamp please. Key, please
+ 
+                         
+                                     HAGRID
 
-SHREK
-Do you think maybe he's compensating 
-for something? (He laughs, but then 
-groans as Donkey doesn't get the joke. 
-He continues walking through the parking 
-lot.)
+                         Didn't think your mum and dad would 
+                         leave you with nothing now did you?
+ 
+                         
+                                     GRIPHOOK
 
-DONKEY
-Hey, wait. Wait up, Shrek.
+                         Vault 713.
 
-MAN
-Hurry, darling. We're late. Hurry.
+                                     HARRY
 
+                         What's in there Hagrid?
 
-SHREK
-Hey, you! (The attendant, who is wearing 
-a giant head that looks like Lord Farquaad, 
-screams and begins running through the 
-rows of rope to get to the front gate 
-to get away from Shrek.) Wait a second. 
-Look, I'm not gonna eat you. I just 
-- - I just - - (He sighs and then begins 
-walking straight through the rows. The 
-attendant runs into a wall and falls 
-down. Shrek and Donkey look at him then 
-continue on into DuLoc.)
+                                     HAGRID
 
-DULOC
+                         Can't tell you Harry. Hogwarts business. 
+                         Very secret.
+ 
+                                     GRIPHOOK
 
-They look around but all is quiet.
+                         Stand back.
 
-SHREK
-It's quiet. Too quiet. Where is everybody?
+                                     HAGRID
 
+                         Best not to mention this to anyone Harry.
+ 
+                         
+                                     HARRY
 
-DONKEY
-Hey, look at this!
+                         I still need... a wand.
 
-Donkey runs over and pulls a lever that is attached to a box 
-marked 'Information'. The music winds up and then the box doors 
-open up. There are little wooden people inside and they begin 
-to sing.
+                                     HAGRID
 
-WOODEN PEOPLE
-Welcome to DuLoc such a perfect town
+                         A wand? Well, you want Ollivander's. 
+                         There ain't no place better. Why don't 
+                         you run along and wait. I got one more 
+                         thing to do. Won't be long.
+ 
+                                     HARRY
 
+                         Hello? Hello?
 
-Here we have some rules
+                                     OLLI
 
-Let us lay them down
+                         I wondered when I'd be seeing you Mr. 
+                         Potter. It seems only yesterday that 
+                         you mother and father were in here buying 
+                         their first wands. Here we are. Well 
+                         give it a wave. Apparently not. Perhaps 
+                         this. NO, no definitely not. No matter. 
+                         I wonder... Curious... very curious
+ 
+                         
+                                     HARRY
 
-Don't make waves, stay in line
+                         Sorry but what's curious
 
-And we'll get along fine
+                                     OLLI
 
-DuLoc is perfect place
+                         I remember every wand that I've sold 
+                         Mr. Potter, every one. It so happens 
+                         that the phoenix whose tail feather 
+                         resides in your wand, gave another feather. 
+                         Just one other. It is curious that you 
+                         should be destined for this wand when 
+                         its brother gave you that scar.
+ 
+                                     HARRY
 
-Please keep off of the grass
+                         And who owned that wand?
 
-Shine your shoes, wipe your... face
+                                     OLLI
 
-DuLoc is, DuLoc is
+                         We do not speak his name. The wand chooses 
+                         the wizard Mr. Potter. It is not always 
+                         clear why. But I think it is clear that 
+                         we can expect great things from you. 
+                         After all, He-Who-Must-Not-Be-Named 
+                         did great things. Terrible, yes, but 
+                         great.
+ 
+                                     HAGRID
 
-DuLoc is perfect place.
+                         Harry! Harry! Happy Birthday!
 
-Suddenly a camera takes Donkey and Shrek's picture.
+                                     HARRY
 
-DONKEY
-Wow! Let's do that again! (makes ready 
-to run over and pull the lever again)
+                         Woah!
 
+                                     HAGRID
 
-SHREK
-(grabs Donkey's tail and holds him still) 
-No. No. No, no, no! No.
+                         You all right Harry? You seem very quiet.
+ 
+                         
+                                     HARRY
 
-They hear a trumpet fanfare and head over to the arena.
+                         He killed my parents didn't he? The 
+                         one who gave me this. You know Hagrid. 
+                         I know you do.
+ 
+                                     HAGRID
 
-FARQUAAD
-Brave knights. You are the best and 
-brightest in all the land. Today one 
-of you shall prove himself...
+                         First and understand this Harry because 
+                         it's very important. Not all wizards 
+                         are good. Some of them go bad. A few 
+                         years ago one of them went as bad as 
+                         you can go. His name was V--. His name 
+                         was V--.
+ 
+                                     HARRY
 
-As Shrek and Donkey walk down the tunnel to get into the arena 
-Donkey is humming the DuLoc theme song.
+                         Well maybe if you wrote it down?
 
-SHREK
-All right. You're going the right way 
-for a smacked bottom.
+                                     HAGRID
 
-DONKEY
-Sorry about that.
+                         Naw I can't spell it. All right, Voldemort.
+ 
+                         
+                                     HARRY
 
-FARQUAAD
-That champion shall have the honor - 
-- no, no - - the privilege to go forth 
-and rescue the lovely Princess Fiona 
-from the fiery keep of the dragon. If 
-for any reason the winner is unsuccessful, 
-the first runner-up will take his place 
-and so on and so forth. Some of you 
-may die, but it's a sacrifice I am willing 
-to make. (cheers) Let the tournament 
-begin! (He notices Shrek) Oh! What is 
-that? It's hideous!
+                         Voldemort?
 
-SHREK
-(turns to look at Donkey and then back 
-at Farquaad) Ah, that's not very nice. 
-It's just a donkey.
+                                     HAGRID
 
-FARQUAAD
-Indeed. Knights, new plan! The one who 
-kills the ogre will be named champion! 
-Have it him!
+                         Shh. It was dark times Harry, dark times. 
+                         Voldemort started to gather some followers. 
+                         Brought them over to the Dark Side. 
+                         Anyone who stood up to him ended up 
+                         dead. Your parents fought against him. 
+                         Nobody lived once he decided to kill 
+                         them. Nobody, not one. Except you.
+ 
+                         
+                                     HARRY
 
-MEN
-Get him!
+                         Me? Voldemort tried to kill me?
 
-SHREK
-Oh, hey! Now come on! Hang on now. (bumps 
-into a table where there are mugs of 
-beer)
+                                     HAGRID
 
-CROWD
-Go ahead! Get him!
+                         Yes. That ain't no ordinary cut on your 
+                         forehead Harry. A mark from that only 
+                         comes from being touched by a curse, 
+                         an evil curse at that.
+ 
+                                     HARRY
 
-SHREK
-(holds up a mug of beer) Can't we just 
-settle this over a pint?
+                         What happened to V--... To You-Know-Who?
+ 
+                         
+                                     HAGRID
 
-CROWD
-Kill the beast!
+                         Well some say he died. Codswallop in 
+                         my opinion. Nope, I reckon he's out 
+                         there still too tired to carry on. But 
+                         one thing's absolutely certain. Something 
+                         about you stumped him that night. That's 
+                         why you're famous. That's why everybody 
+                         knows your name. You're the boy who 
+                         lived.
+ 
+                                     HAGRID
 
-SHREK
-No? All right then. (drinks the beer) 
-Come on!
+                         Well some say he died. Codswallop in 
+                         my opinion. Nope, I reckon he's out 
+                         there still too tired to carry on. But 
+                         one thing's absolutely certain. Something 
+                         about you stumped him that night. That's 
+                         why you're famous. That's why everybody 
+                         knows your name. You're the boy who 
+                         lived.
+ 
+                                     
 
-He takes the mug and smashes the spigot off the large barrel 
-of beer behind him. The beer comes rushing out drenching the 
-other men and wetting the ground. It's like mud now. Shrek slides 
-past the men and picks up a spear that one of the men dropped. 
-As Shrek begins to fight Donkey hops up onto one of the larger 
-beer barrels. It breaks free of it's ropes and begins to roll. 
-Donkey manages to squish two men into the mud. There is so much 
-fighting going on here I'm not going to go into detail. Suffice 
-to say that Shrek kicks butt.
+                         - - - -
 
-DONKEY
-Hey, Shrek, tag me! Tag me!
+                                     HAGRID
 
-Shrek comes over and bangs a man's head up against Donkeys. Shrek 
-gets up on the ropes and interacts with the crowd.
+                         What are you looking at? Blimey is that 
+                         time? Sorry Harry, but I'm gonna have 
+                         to leave you. Dumbledore would be wanting 
+                         his... Well, he'd be wanting to see 
+                         me. Now, your train leaves in 10 minutes. 
+                         Here's your ticket. Stick to it Harry, 
+                         that's very important. Stick to you 
+                         ticket.
+ 
+                                     HARRY
 
-SHREK
-Yeah!
+                         Platform 9 ¾? But, Hagrid, there must 
+                         be a mistake. This says Platform 9 ¾. 
+                         There's no such thing. Is there?
+ 
+                                     OTH
 
-A man tries to sneak up behind Shrek, but Shrek turns in time 
-and sees him.
+                         Sorry.
 
-WOMAN
-The chair! Give him the chair!
+                                     HARRY
 
-Shrek smashes a chair over the guys back. Finally all the men 
-are down. Donkey kicks one of them in the helmet, and the ding 
-sounds the end of the match. The audience goes wild.
+                         Excuse me! Excuse me!
 
-SHREK
-Oh, yeah! Ah! Ah! Thank you! Thank you 
-very much! I'm here till Thursday. Try 
-the veal! Ha, ha! (laughs)
+                                     OTH
 
-The laughter stops as all of the guards turn their weapons on 
-Shrek.
+                         On your left.
 
-HEAD GUARD
-Shall I give the order, sir?
+                                     HARRY
 
-FARQUAAD
-No, I have a better idea. People of 
-DuLoc, I give you our champion!
+                         Excuse me sir. Can you tell me where 
+                         I might find Platform 9 ¾?
+ 
+                                     OTH
 
-SHREK
-What?
+                         9 ¾? Think you're being funny do you?
+ 
+                         
+                                     MRS. WEASLEY
 
-FARQUAAD
-Congratulations, ogre. You're won the 
-honor of embarking on a great and noble 
-quest.
+                         It's the same every year packed with 
+                         Muggles of course. Come on!
+ 
+                                     HARRY
 
-SHREK
-Quest? I'm already in a quest, a quest 
-to get my swamp back.
+                         Muggles?
 
-FARQUAAD
-Your swamp?
+                                     MRS. WEASLEY
 
-SHREK
-Yeah, my swamp! Where you dumped those 
-fairy tale creatures!
+                         Platform 9 ¾ this way! All right Percy 
+                         you first. Fred you next.
+ 
+                                     GEORGE WEASLEY
 
-FARQUAAD
-Indeed. All right, ogre. I'll make you 
-a deal. Go on this quest for me, and 
-I'll give you your swamp back.
+                         He's not Fred I am!
 
-SHREK
-Exactly the way it was?
+                                     FRED WEASLEY
 
-FARQUAAD
-Down to the last slime-covered toadstool.
+                         Honestly, woman you call yourself our 
+                         mother!
+ 
+                                     MRS. WEASLEY
 
+                         I'm sorry George.
 
-SHREK
-And the squatters?
+                                     FRED WEASLEY
 
-FARQUAAD
-As good as gone.
+                         Only joking! I am Fred.
 
-SHREK
-What kind of quest?
+                                     HARRY
 
-Time Lapse - Donkey and Shrek are now walking through the field 
-heading away from DuLoc. Shrek is munching on an onion.
+                         Excuse me! Could you tell me how to...
+ 
+                         
+                                     MRS. WEASLEY
 
-DONKEY
-Let me get this straight. You're gonna 
-go fight a dragon and rescue a princess 
-just so Farquaad will give you back 
-a swamp which you only don't have because 
-he filled it full of freaks in the first 
-place. Is that about right?
+                         How to get on to the platform? Yes, 
+                         not to worry dear, it's Ron's first 
+                         time to Hogwarts as well. Now, all you 
+                         have to do is walk straight at the wall 
+                         between platforms 9 and 10. Best do 
+                         it at a run if you're nervous.
+ 
+                                     GINNY
 
-SHREK
-You know, maybe there's a good reason 
-donkeys shouldn't talk.
+                         Good luck!
 
-DONKEY
-I don't get it. Why don't you just pull 
-some of that ogre stuff on him? Throttle 
-him, lay siege to his fortress, grinds 
-his bones to make your bread, the whole 
-ogre trip.
+                                     
 
-SHREK
-Oh, I know what. Maybe I could have 
-decapitated an entire village and put 
-their heads on a pike, gotten a knife, 
-cut open their spleen and drink their 
-fluids. Does that sound good to you?
+                         - -
 
+                                     RON WEASLEY
 
-DONKEY
-Uh, no, not really, no.
+                         Excuse me, do you mind? Every where 
+                         else is full.
+ 
+                                     HARRY
 
-SHREK
-For your information, there's a lot 
-more to ogres than people think.
+                         Not at all.
 
-DONKEY
-Example?
+                                     RON WEASLEY
 
-SHREK
-Example? Okay, um, ogres are like onions. 
-(he holds out his onion)
+                         I'm Ron by the way! Ron Weasley.
 
-DONKEY
-(sniffs the onion) They stink?
+                                     HARRY
 
-SHREK
-Yes - - No!
+                         I'm Harry. Harry Potter.
 
-DONKEY
-They make you cry?
+                                     RON WEASLEY
 
-SHREK
-No!
+                         SO it's true! DO you really have the... 
+                         the...
+ 
+                                     HARRY
 
-DONKEY
-You leave them in the sun, they get 
-all brown, start sproutin' little white 
-hairs.
+                         The what?
 
-SHREK
-No! Layers! Onions have layers. Ogres 
-have layers! Onions have layers. You 
-get it? We both have layers. (he heaves 
-a sigh and then walks off)
+                                     RON WEASLEY
 
-DONKEY
-(trailing after Shrek) Oh, you both 
-have layers. Oh. {Sniffs} You know, 
-not everybody likes onions. Cake! Everybody 
-loves cakes! Cakes have layers.
+                         The scar?
 
-SHREK
-I don't care... what everyone likes. 
-Ogres are not like cakes.
+                                     HARRY
 
-DONKEY
-You know what else everybody likes? 
-Parfaits. Have you ever met a person, 
-you say, "Let's get some parfait," they 
-say, "Hell no, I don't like no parfait"? 
-Parfaits are delicious.
+                         Oh!
 
-SHREK
-No! You dense, irritating, miniature 
-beast of burden! Ogres are like onions! 
-And of story. Bye-bye. See ya later.
+                                     RON WEASLEY
 
+                         Wicked!
 
-DONKEY
-Parfaits may be the most delicious thing 
-on the whole damn planet.
+                                     OTH
 
-SHREK
-You know, I think I preferred your humming.
+                         Anything off the trolley dears?
 
+                                     RON WEASLEY
 
-DONKEY
-Do you have a tissue or something? I'm 
-making a mess. Just the word parfait 
-make me start slobbering.
+                         No, thanks, I'm all set.
 
-They head off. There is a montage of their journey. Walking through 
-a field at sunset. Sleeping beneath a bright moon. Shrek trying 
-to put the campfire out the next day and having a bit of a problem, 
-so Donkey pees on the fire to put it out.
+                                     HARRY
 
-DRAGON'S KEEP
+                         We'll take the lot!
 
-Shrek and Donkey are walking up to the keep that's supposed to 
-house Princess Fiona. It appears to look like a giant volcano.
+                                     RON WEASLEY
 
+                         Woah!
 
-DONKEY
-(sniffs) Ohh! Shrek! Did you do that? 
-You gotta warn somebody before you just 
-crack one off. My mouth was open and 
-everything.
+                                     HARRY
 
-SHREK
-Believe me, Donkey, if it was me, you'd 
-be dead. (sniffs) It's brimstone. We 
-must be getting close.
+                         Bertie Bott's Every Flavor Beans?
 
-DONKEY
-Yeah, right, brimstone. Don't be talking 
-about it's the brimstone. I know what 
-I smell. It wasn't no brimstone. It 
-didn't come off no stone neither.
+                                     RON WEASLEY
 
+                         They mean every flavor! There's chocolate, 
+                         peppermint and also, spinach liver, 
+                         and tripe. George sweared he got boogie 
+                         flavored one once.
+ 
+                                     HARRY
 
-They climb up the side of the volcano/keep and look down. There 
-is a small piece of rock right in the center and that is where 
-the castle is. It is surrounded by boiling lava. It looks very 
-foreboding.
+                         These aren't real frogs are they?
 
-SHREK
-Sure, it's big enough, but look at the 
-location. (laughs...then the laugh turns 
-into a groan)
+                                     RON WEASLEY
 
-DONKEY
-Uh, Shrek? Uh, remember when you said 
-ogres have layers?
+                         It's just a spell. But it's the cards 
+                         you want. Each pack's got a famous witch 
+                         or wizard. I got about 500 me self. 
+                         Watch it! That's rotten luck. They've 
+                         only got one good jump in them to begin 
+                         with.
+ 
+                                     HARRY
 
-SHREK
-Oh, aye.
+                         I've got Dumbledore!
 
-DONKEY
-Well, I have a bit of a confession to 
-make. Donkeys don't have layers. We 
-wear our fear right out there on our 
-sleeves.
+                                     RON WEASLEY
 
-SHREK
-Wait a second. Donkeys don't have sleeves.
+                         I've got about 6 of him.
 
+                                     HARRY
 
-DONKEY
-You know what I mean.
+                         Hey, he's gone!
 
-SHREK
-You can't tell me you're afraid of heights.
+                                     RON WEASLEY
 
+                         Well you can't expect him to hang around 
+                         all day, can you? This is Scabbers by 
+                         the way. Pathetic isn't he?
+ 
+                                     HARRY
 
-DONKEY
-No, I'm just a little uncomfortable 
-about being on a rickety bridge over 
-a boiling like of lava!
+                         Just a little bit.
 
-SHREK
-Come on, Donkey. I'm right here beside 
-ya, okay? For emotional support., we'll 
-just tackle this thing together one 
-little baby step at a time.
+                                     RON WEASLEY
 
-DONKEY
-Really?
+                         Fred gave me a spell to turn him yellow. 
+                         Want to see?
+ 
+                                     HARRY
 
-SHREK
-Really, really.
+                         Yeah!
 
-DONKEY
-Okay, that makes me feel so much better.
+                                     RON WEASLEY
 
+                         Ahem... Sunshine...
 
-SHREK
-Just keep moving. And don't look down.
+                                     HERMIONE
 
+                         has anyone seen a toad? A boy named 
+                         Neville's has one.
+ 
+                                     RON WEASLEY
 
-DONKEY
-Okay, don't look down. Don't look down. 
-Don't look down. Keep on moving. Don't 
-look down. (he steps through a rotting 
-board and ends up looking straight down 
-into the lava) Shrek! I'm lookin' down! 
-Oh, God, I can't do this! Just let me 
-off, please!
+                         No.
 
-SHREK
-But you're already halfway.
+                                     HERMIONE
 
-DONKEY
-But I know that half is safe!
+                         Oh are you doing magic? Let's see then.
+ 
+                         
+                                     RON WEASLEY
 
-SHREK
-Okay, fine. I don't have time for this. 
-You go back.
+                         Ahem. Sunshine Daisies Butter Mellow 
+                         Turn this stupid fat rat yellow.
+ 
+                                     HERMIONE
 
-DONKEY
-Shrek, no! Wait!
+                         Are you sure that's a real spell? Well, 
+                         it's not very good is it? Of course, 
+                         I've only tried a few simple ones myself 
+                         but they've all worked for me. For example: 
+                         Oculus Reparo. That's better isn't it? 
+                         Holy cricket! You're Harry Potter! I'm 
+                         Hermione Granger. And you are...?
+ 
+                         
+                                     RON WEASLEY
 
-SHREK
-Just, Donkey - - Let's have a dance 
-then, shall me? (bounces and sways the 
-bridge)
+                         I'm Ron Weasley.
 
-DONKEY
-Don't do that!
+                                     HERMIONE
 
-SHREK
-Oh, I'm sorry. Do what? Oh, this? (bounces 
-the bridge again)
+                         Pleasure. You two better change into 
+                         your robes. I expect we'll be arriving 
+                         soon. You've dirt on your nose by the 
+                         way. Just there.
+ 
+                                     HAGRID
 
-DONKEY
-Yes, that!
+                         Right then. First years this way, please! 
+                         First years, don't be shy. Come on now, 
+                         hurry up! Hello Harry!
+ 
+                                     HARRY
 
-SHREK
-Yes? Yes, do it. Okay. (continues to 
-bounce and sway as he backs Donkey across 
-the bridge)
+                         Hi Hagrid!
 
-DONKEY
-No, Shrek! No! Stop it!
+                                     RON WEASLEY
 
-SHREK
-You said do it! I'm doin' it.
+                         Woah!
 
-DONKEY
-I'm gonna die. I'm gonna die. Shrek, 
-I'm gonna die. (steps onto solid ground) 
-Oh!
+                                     HAGRID
 
-SHREK
-That'll do, Donkey. That'll do. (walks 
-towards the castle)
+                         Right, then. This way to the boats. 
+                         Come on now, follow me.
+ 
+                                     RON WEASLEY
 
-DONKEY
-Cool. So where is this fire-breathing 
-pain-in-the-neck anyway?
+                         Wicked!
 
-SHREK
-Inside, waiting for us to rescue her. 
-(chuckles)
+                                     
 
-DONKEY
-I was talkin' about the dragon, Shrek.
+                         - - - -
 
+                                     MCGONAGALL
 
-INSIDE THE CASTLE
+                         Welcome to Hogwarts. Now, in a few moments 
+                         you will pass through these doors and 
+                         join your classmates. But before you 
+                         take your seats, you must be sorted 
+                         into your houses. They are Gryffindor, 
+                         Hufflepuff, Ravenclaw, and Slytherin. 
+                         Now while you're here your house will 
+                         be like your family. Your triumphs will 
+                         earn you points. Any rule breaking and 
+                         you will loose points. At the end of 
+                         the year, the houses with the most points 
+                         is awarded the house cup.
+ 
+                                     NEVILLE
 
-DONKEY
-You afraid?
+                         Trevor! Sorry.
 
-SHREK
-No.
+                                     MCGONAGALL
 
-DONKEY
-But...
+                         The Sorting Ceremony will begin momentarily.
+ 
+                         
+                                     DRACO MALFOY
 
-SHREK
-Shh.
+                         It's true then, what they're saying 
+                         on the train. Harry Potter has come 
+                         to Hogwarts.
+ 
+                                     N & OTH
 
-DONKEY
-Oh, good. Me neither. (sees a skeleton 
-and gasps) 'Cause there's nothin' wrong 
-with bein' afraid. Fear's a sensible 
-response to an unfamiliar situation. 
-Unfamiliar dangerous situation, I might 
-add. With a dragon that breathes fire 
-and eats knights and breathes fire, 
-it sure doesn't mean you're a coward 
-if you're a little scared. I sure as 
-heck ain't no coward. I know that.
+                         Harry Potter?
 
+                                     DRACO MALFOY
 
-SHREK
-Donkey, two things, okay? Shut ... up. 
-Now go over there and see if you can 
-find any stairs.
+                         This is Crabbe and Goyle. And I'm Malfoy. 
+                         Draco Malfoy. Think my name's funny 
+                         do you? No need to ask yours. Red hair 
+                         and a hand-me-down robe? You must be 
+                         a Weasley. You'll soon find out that 
+                         some wizarding families are better than 
+                         others, Potter. You don't want to making 
+                         friends with the wrong sort. I can help 
+                         you there.
+ 
+                                     HARRY
 
-DONKEY
-Stairs? I thought we was lookin' for 
-the princess.
+                         I think I can tell the wrong sort for 
+                         my self thanks.
+ 
+                                     MCGONAGALL
 
-SHREK
-(putting on a helmet) The princess will 
-be up the stairs in the highest room 
-in the tallest tower.
+                         We're ready for you. Follow me.
 
-DONKEY
-What makes you think she'll be there?
+                                     HERMIONE
 
+                         It's not real the ceiling. It's just 
+                         bewitched to look like the night outside. 
+                         I read about it in Hogwarts, A History.
+ 
+                         
+                                     MCGONAGALL
 
-SHREK
-I read it in a book once. (walks off)
+                         Will you wait along here please. Now 
+                         before we begin, Professor Dumbledore 
+                         would like to say a few words.
+ 
+                                     DUMBLEDORE
 
+                         I have a few start-of-term notices I 
+                         wish to announce. The first years please 
+                         note, that the Dark Forest is strictly 
+                         forbidden to all students. Also, our 
+                         caretaker, Mr. Filch, has asked me to 
+                         remind you that the third floor corridor 
+                         on the right hand side is out of bounds 
+                         to all who do not wish to die a most 
+                         painful death. Thank you.
+ 
+                                     MCGONAGALL
 
-DONKEY
-Cool. You handle the dragon. I'll handle 
-the stairs. I'll find those stairs. 
-I'll whip their butt too. Those stairs 
-won't know which way they're goin'. 
-(walks off)
+                         When I call your name you will come 
+                         forth, I shall place the Sorting Hat 
+                         on your head, and you will be sorted 
+                         into your houses. Hermione Granger!
+ 
+                         
+                                     HERMIONE
 
-EMPTY ROOM
+                         Oh, no. OK relax.
 
-Donkey is still talking to himself as he looks around the room.
+                                     RON WEASLEY
 
+                         Mental that one, I'm telling you.
 
-DONKEY
-I'm gonna take drastic steps. Kick it 
-to the curb. Don't mess with me. I'm 
-the stair master. I've mastered the 
-stairs. I wish I had a step right here. 
-I'd step all over it.
+                                     SHARRY
 
-ELSEWHERE
+                         Ah, right then. Hum... Right. Okay, 
+                         Gryffindor!
+ 
+                                     MCGONAGALL
 
-Shrek spots a light in the tallest tower window.
+                         Draco Malfoy!
 
-SHREK
-Well, at least we know where the princess 
-is, but where's the...
+                                     SHARRY
 
-DONKEY
-(os) Dragon!
+                         Slytherin!
 
-Donkey gasps and takes off running as the dragon roars again. 
-Shrek manages to grab Donkey out of the way just as the dragon 
-breathes fire.
+                                     RON WEASLEY
 
-SHREK
-Donkey, look out! (he manages to get 
-a hold of the dragons tail and holds 
-on) Got ya!
+                         There's no witch or wizard who went 
+                         bad who wasn't in Slytherin.
+ 
+                                     MCGONAGALL
 
-The dragon gets irritated at this and flicks it's tail and Shrek 
-goes flying through the air and crashes through the roof of the 
-tallest tower. Fiona wakes up with a jerk and looks at him lying 
-on the floor.
+                         Susan Bones!
 
-DONKEY
-Oh! Aah! Aah!
+                                     HARRY
 
-Donkey get cornered as the Dragon knocks away all but a small 
-part of the bridge he's on.
+                         Ow!
 
-DONKEY
-No. Oh, no, No! (the dragon roars) Oh, 
-what large teeth you have. (the dragon 
-growls) I mean white, sparkling teeth. 
-I know you probably hear this all time 
-from your food, but you must bleach, 
-'cause that is one dazzling smile you 
-got there. Do I detect a hint of minty 
-freshness? And you know what else? You're 
-- - You're a girl dragon! Oh, sure! 
-I mean, of course you're a girl dragon. 
-You're just reeking of feminine beauty. 
-(the dragon begins fluttering her eyes 
-at him) What's the matter with you? 
-You got something in your eye? Ohh. 
-Oh. Oh. Man, I'd really love to stay, 
-but you know, I'm, uh...(the dragon 
-blows a smoke ring in the shape of a 
-heart right at him, and he coughs) I'm 
-an asthmatic, and I don't know if it'd 
-work out if you're gonna blow smoke 
-rings. Shrek! (the dragon picks him 
-up with her teeth and carries him off) 
-No! Shrek! Shrek! Shrek!
+                                     RON WEASLEY
 
-FIONA'S ROOM
+                         Harry what is it?
 
-Shrek groans as he gets up off the floor. His back is to Fiona 
-so she straightens her dress and lays back down on the bed. She 
-then quickly reaches over and gets the bouquet of flowers off 
-the side table. She then lays back down and appears to be asleep. 
-Shrek turns and goes over to her. He looks down at Fiona for 
-a moment and she puckers her lips. Shrek takes her by the shoulders 
-and shakes her away.
+                                     HARRY
 
-FIONA
-Oh! Oh!
+                         Nothing. Nothing, I'm fine
 
-SHREK
-Wake up!
+                                     SHARRY
 
-FIONA
-What?
+                         ...where shall I put you? Let's see... 
+                         I know! Hufflepuff!
+ 
+                                     MCGONAGALL
 
-SHREK
-Are you Princess Fiona?
+                         Ronald Weasley!
 
-FIONA
-I am, awaiting a knight so bold as to 
-rescue me.
+                                     SHARRY
 
-SHREK
-Oh, that's nice. Now let's go!
+                         Ha! Another Weasley! I know just what 
+                         to do with you... Gryffindor!
+ 
+                                     MCGONAGALL
 
-FIONA
-But wait, Sir Knight. This be-ith our 
-first meeting. Should it not be a wonderful, 
-romantic moment?
+                         Harry potter
 
-SHREK
-Yeah, sorry, lady. There's no time.
+                                     SHARRY
 
+                         Hmmm... Difficult, very difficult. Plenty 
+                         of courage, I see. Not a bad mind either. 
+                         There's talent, oh yes, and a thirst 
+                         to prove yourself. But where to put 
+                         you...
+ 
+                                     HARRY
 
-FIONA
-Hey, wait. What are you doing? You should 
-sweep me off my feet out yonder window 
-and down a rope onto your valiant steed.
+                         Not Slytherin, not Slytherin!
 
+                                     SHARRY
 
-SHREK
-You've had a lot of time to plan this, 
-haven't you?
+                         Not Slytherin eh? Are you sure? You 
+                         could be great you know. It's all herein 
+                         your head. And Slytherin will help you 
+                         on the way to greatness, there's no 
+                         doubt about that. No? (Harry whispering: 
+                         Please, Please anything but Slytherin, 
+                         anything but Slytherin.) Well if you're 
+                         sure, better be... Gryffindor!
+ 
+                                     MCGONAGALL
 
-FIONA
-(smiles) Mm-hmm.
+                         Your attention please.
 
-Shrek breaks the lock on her door and pulls her out and down 
-the hallway.
+                                     DUMBLEDORE
 
-FIONA
-But we have to savor this moment! You 
-could recite an epic poem for me. A 
-ballad? A sonnet! A limerick? Or something!
+                         Let the feast begin!
 
+                                     HARRY
 
-SHREK
-I don't think so.
+                         Wow!
 
-FIONA
-Can I at least know the name of my champion?
+                                     SFRED WEASLEY
 
+                         I'm half and half. Me dad's a Muggle, 
+                         mam's a witch. Bit of a nasty shock 
+                         for him when he found out!
+ 
+                                     HARRY
 
-SHREK
-Uh, Shrek.
+                         Say Percy, who's that teacher talking 
+                         to Professor Quirrell?
+ 
+                                     PERCY
 
-FIONA
-Sir Shrek. (clears throat and holds 
-out a handkerchief) I pray that you 
-take this favor as a token of my gratitude.
+                         Oh, Professor Snape, head of Slytherin 
+                         house.
+ 
+                                     HARRY
 
+                         What's he teach?
 
-SHREK
-Thanks!
+                                     PERCY
 
-Suddenly they hear the dragon roar.
+                         Potions. But everyone knows it's the 
+                         Dark Arts he fancies. He's been after 
+                         Quirrell's job for years.
+ 
+                                     RON WEASLEY
 
-FIONA
-(surprised)You didn't slay the dragon?
+                         Ah!
 
+                                     SIR NEVILLE
 
-SHREK
-It's on my to-do list. Now come on! 
-(takes off running and drags Fiona behind 
-him.)
+                         Hello! How are you? Welcome to Gryffindor.
+ 
+                         
+                                     OTH
 
-FIONA
-But this isn't right! You were meant 
-to charge in, sword drawn, banner flying. 
-That's what all the other knights did.
+                         It's the Bloody Baron!
 
+                                     PERCY
 
-SHREK
-Yeah, right before they burst into flame.
+                         Hello, Sir Nicholas. Have a nice summer?
+ 
+                         
+                                     SIR NEVILLE
 
+                         Dismal. Once again my request to join 
+                         the Headless Hunt has been denied.
+ 
+                         
+                                     RON WEASLEY
 
-FIONA
-That's not the point. (Shrek suddenly 
-stops and she runs into him.) Oh! (Shrek 
-ignores her and heads for a wooden door 
-off to the side.) Wait. Where are you 
-going? The exit's over there.
+                         I know you. You're Nearly Headless Nick.
+ 
+                         
+                                     SIR NEVILLE
 
-SHREK
-Well, I have to save my ass.
+                         I prefer Sir Nicholas if you don't mind.
+ 
+                         
+                                     HERMIONE
 
-FIONA
-What kind of knight are you?
+                         "Nearly" headless? How can you be "nearly" 
+                         headless?
+ 
+                                     SIR NEVILLE
 
-SHREK
-One of a kind. (opens the door into 
-the throne room)
+                         Like this.
 
-DONKEY
-(os) Slow down. Slow down, baby, please. 
-I believe it's healthy to get to know 
-someone over a long period of time. 
-Just call me old-fashioned. (laughs 
-worriedly) (we see him up close and 
-from a distance as Shrek sneaks into 
-the room) I don't want to rush into 
-a physical relationship. I'm not emotionally 
-ready for a commitment of, uh, this 
-- - Magnitude really is the word I'm 
-looking for. Magnitude- - Hey, that 
-is unwanted physical contact. Hey, what 
-are you doing? Okay, okay. Let's just 
-back up a little and take this one step 
-at a time. We really should get to know 
-each other first as friends or pen pals. 
-I'm on the road a lot, but I just love 
-receiving cards - - I'd really love 
-to stay, but - - Don't do that! That's 
-my tail! That's my personal tail. You're 
-gonna tear it off. I don't give permission 
-- - What are you gonna do with that? 
-Hey, now. No way. No! No! No, no! No. 
-No, no, no. No! Oh!
+                                     RON WEASLEY
 
-Shrek grabs a chain that's connected to the chandelier and swings 
-toward the dragon. He misses and he swings back again. He looks 
-up and spots that the chandelier is right above the dragons head. 
-He pulls on the chain and it releases and he falls down and bumps 
-Donkey out of the way right as the dragon is about to kiss him. 
-Instead the dragon kisses Shreks' butt. She opens her eyes and 
-roars. Shrek lets go of the chain and the chandelier falls onto 
-her head, but it's too big and it goes over her head and forms 
-a sort of collar for her. She roars again and Shrek and Donkey 
-take off running. Very 'Matrix' style. Shrek grabs Donkey and 
-then grabs Princess Fiona as he runs past her.
+                         Ah!
 
-DONKEY
-Hi, Princess!
+                                     
 
-FIONA
-It talks!
+                         - - - -
 
-SHREK
-Yeah, it's getting him to shut up that's 
-the trick.
+                                     PERCY
 
-They all start screaming as the dragon gains on them. Shrek spots 
-a descending slide and jumps on. But unfortunately there is a 
-crack in the stone and it hits Shrek right in the groin. His 
-eyes cross and as he reaches the bottom of the slide he stumbles 
-off and walks lightly.
+                         Gryffindors, follow me, please. Keep 
+                         up. Thank-you.
+ 
+                                     OTH
 
-SHREK
-Oh!
+                         Ravenclaw follow me. This way.
 
-Shrek gets them close to the exit and sets down Donkey and Fiona.
+                                     PERCY
 
+                         This is the most direct part to the 
+                         dormitories. Oh, and keep an eye on 
+                         the staircases, they like to change. 
+                         Keep up please, and follow me. Quickly 
+                         now, come on. Come on.
+ 
+                                     OTH
 
-SHREK
-Okay, you two, heard for the exit! I'll 
-take care of the dragon.
+                         That picture's moving!
 
-Shrek grabs a sword and heads back toward the interior of the 
-castle. He throws the sword down in between several overlapping 
-chain links. The chain links are attached to the chandelier that 
-is still around the dragons neck.
+                                     OTH
 
-SHREK
-(echoing) Run!
+                         Look at that one.
 
-They all take off running for the exit with the dragon in hot 
-pursuit. They make it to the bridge and head across. The dragons 
-breathes fire and the bridge begins to burn. They all hang on 
-for dear life as the ropes holding the bridge up collapse. They 
-are swung to the other side. As they hang upside down they look 
-in horror as the dragon makes to fly over the boiling lava to 
-get them. But suddenly the chandelier with the chain jerk the 
-dragon back and she's unable to get to them. Our gang climbs 
-quickly to safety as the dragon looks angry and then gives a 
-sad whimper as she watches Donkey walk away.
+                                     OTH
 
-FIONA
-(sliding down the 'volcano' hill) You 
-did it! You rescued me! You're amazing. 
-(behind her Donkey falls down the hill) 
-You're - - You're wonderful. You're... 
-(turns and sees Shrek fall down the 
-hill and bump into Donkey) a little 
-unorthodox I'll admit. But thy deed 
-is great, and thy heart is pure. I am 
-eternally in your debt. (Donkey clears 
-his throat.) And where would a brave 
-knight be without his noble steed?
+                         I think she fancies you.
 
+                                     OTH
 
-DONKEY
-I hope you heard that. She called me 
-a noble steed. She think I'm a steed.
+                         Look, look!
 
+                                     OTH
 
-FIONA
-The battle is won. You may remove your 
-helmet, good Sir Knight.
+                         Who's that girl?
 
-SHREK
-Uh, no.
+                                     WALL PICTURE
 
-FIONA
-Why not?
+                         Welcome to Hogwarts!
 
-SHREK
-I have helmet hair.
+                                     THE FAT LADY
 
-FIONA
-Please. I would'st look upon the face 
-of my rescuer.
+                         Password?
 
-SHREK
-No, no, you wouldn't - - 'st.
+                                     PERCY
 
-FIONA
-But how will you kiss me?
+                         Caput Draconis. Follow me, everyone. 
+                         Keep up. Quickly, come on! Gather around 
+                         here. Welcome to the Gryffindor common 
+                         room. Boys' dormitories is upstairs 
+                         and down to your left. Girls the same 
+                         on your right. You'll find all your 
+                         belonging have already been brought 
+                         up.
+ 
+                                     
 
-SHREK
-What? (to Donkey) That wasn't in the 
-job description.
+                         
+                                     
 
-DONKEY
-Maybe it's a perk.
+                         - - - -
 
-FIONA
-No, it's destiny. Oh, you must know 
-how it goes. A princess locked in a 
-tower and beset by a dragon is rescued 
-by a brave knight, and then they share 
-true love's first kiss.
+                                     RON WEASLEY
 
-DONKEY
-Hmm? With Shrek? You think- - Wait. 
-Wait. You think that Shrek is you true 
-love?
+                         Whew! We made it! Can you imagine the 
+                         look on McGonagall's face if we were 
+                         late? That was bloody brilliant!
+ 
+                                     MCGONAGALL
 
-FIONA
-Well, yes.
+                         Thank-you for that assessment Mr. Weasley. 
+                         Perhaps it would be more useful if I 
+                         transfigured Mr. Potter and yourself 
+                         into a pocket watch. That way one of 
+                         you might be on time.
+ 
+                                     HARRY
 
-Both Donkey and Shrek burst out laughing.
+                         We got lost.
 
-DONKEY
-You think Shrek is your true love!
+                                     MCGONAGALL
 
+                         Then perhaps a map? I trust you don't 
+                         need one to find your seats.
+ 
+                                     
 
-FIONA
-What is so funny?
+                         
+                                     SEVERUS SNAPE
 
-SHREK
-Let's just say I'm not your type, okay?Fiona: 
-Of course, you are. You're my rescuer. 
-Now - - Now remove your helmet.
+                         There will be no foolish wand-waving 
+                         or silly incantations in this class. 
+                         As such, I don't expect many of you 
+                         to appreciate the subtle science and 
+                         exact art that is potion making. However, 
+                         for those select few who possess the 
+                         predisposition. I can teach you how 
+                         to bewitch the mind and ensnare the 
+                         senses. I show you how to bottle fame, 
+                         brew glory, and even put a stopper in 
+                         death. Then again maybe some of you 
+                         have come to Hogwarts in possession 
+                         of abilities so formidable that you 
+                         feel confident enough to not pay attention. 
+                         Mr. Potter, our new celebrity. Tell 
+                         me what would I get if I added root 
+                         of asphodel to an infusion of wormwood? 
+                         You don't know? Well let's try again. 
+                         Where Mr. Potter would you look if I 
+                         asked you to find me a bezoar?
+ 
+                                     HARRY
 
-SHREK
-Look. I really don't think this is a 
-good idea.
+                         I don't know, sir.
 
-FIONA
-Just take off the helmet.
+                                     SEVERUS SNAPE
 
-SHREK
-I'm not going to.
+                         And what is the difference between monkswood 
+                         and wolfsbane?
+ 
+                                     HARRY
 
-FIONA
-Take it off.
+                         I don't know sir.
 
-SHREK
-No!
+                                     SEVERUS SNAPE
 
-FIONA
-Now!
+                         Pity. Clearly fame isn't everything. 
+                         Is it Mr. Potter?
+ 
+                                     
 
-SHREK
-Okay! Easy. As you command. Your Highness. 
-(takes off his helmet)
+                         
+                                     SFRED WEASLEY
 
-FIONA
-You- - You're a- - an ogre.
+                         Eye of rabbit, harp sting hum, turn 
+                         this water into rum... Eye of rabbit 
+                         harp sting hum, turn this water into 
+                         rum.
+ 
+                                     HARRY
 
-SHREK
-Oh, you were expecting Prince Charming.
+                         What's Seamus trying to do to that glass 
+                         of water?
+ 
+                                     RON WEASLEY
 
+                         Turn it to rum. Actually he managed 
+                         to make weak tea yesterday, before--- 
+                         Ah, mail's here.
+ 
+                                     HARRY
 
-FIONA
-Well, yes, actually. Oh, no. This is 
-all wrong. You're not supposed to be 
-an ogre.
+                         Can I burrow this? Thanks.
 
-SHREK
-Princess, I was sent to rescue you by 
-Lord Farquaad, okay? He is the one who 
-wants to marry you.
+                                     OTH
 
-FIONA
-Then why didn't he come rescue me?
+                         Hey look! Neville's got a Remembrall.
+ 
+                         
+                                     HERMIONE
 
+                         I've read about those. When the smoke 
+                         turns red it means you've forgotten 
+                         something.
+ 
+                                     NEVILLE
 
-SHREK
-Good question. You should ask him that 
-when we get there.
+                         The only problem is I can't remember 
+                         what I have forgotten.
+ 
+                                     HARRY
 
-FIONA
-But I have to be rescued by my true 
-love, not by some ogre and his- - his 
-pet.
+                         Hey Ron, somebody broke into Gringotts. 
+                         Listen: "Believed to be the work of 
+                         Dark wizards or witches unknown, Gringotts 
+                         goblins were acknowledging the breach 
+                         insist nothing was taken. The vault 
+                         in question number 713 had been emptied 
+                         earlier that very same day." That's 
+                         odd. That's the vault Hagrid and I went 
+                         to.
+ 
+                                     
 
-DONKEY
-Well, so much for noble steed.
+                         - - - -
 
-SHREK
-You're not making my job any easier.
+                                     MHARRY
 
+                         Good afternoon, class.
 
-FIONA
-I'm sorry, but your job is not my problem. 
-You can tell Lord Farquaad that if he 
-wants to rescue me properly, I'll be 
-waiting for him right here.
+                                     OTHS
 
-SHREK
-Hey! I'm no one's messenger boy, all 
-right? (ominous) I'm a delivery boy. 
-(he swiftly picks her up and swings 
-her over his shoulder like she was a 
-sack of potatoes)
+                         Good afternoon Madame Hooch.
 
-FIONA
-You wouldn't dare. Put me down!
+                                     MHARRY
 
-SHREK
-Ya comin', Donkey?
+                         Good afternoon Amanda, good afternoon. 
+                         Welcome to your first flying lesson. 
+                         Well what are you waiting for? Everyone 
+                         step up to the left side of their broomstick. 
+                         Come on now, hurry up. Stick your right 
+                         hand over the broom and say up.
+ 
+                                     H & OTHS
 
-DONKEY
-I'm right behind ya.
+                         Up! Up!
 
-FIONA
-Put me down, or you will suffer the 
-consequences! This is not dignified! 
-Put me down!
+                                     HARRY
 
-WOODS
+                         Woah!
 
-A little time has passed and Fiona has calmed down. She just 
-hangs there limply while Shrek carries her.
+                                     DRACO MALFOY
 
-DONKEY
-Okay, so here's another question. Say 
-there's a woman that digs you, right, 
-but you don't really like her that way. 
-How do you let her down real easy so 
-her feelings aren't hurt, but you don't 
-get burned to a crisp and eaten?
+                         Up.
 
-FIONA
-You just tell her she's not your true 
-love. Everyone knows what happens when 
-you find your...(Shrek drops her on 
-the ground) Hey! The sooner we get to 
-DuLoc the better.
+                                     RON WEASLEY
 
-DONKEY
-You're gonna love it there, Princess. 
-It's beautiful!
+                         Up. Up!
 
-FIONA
-And what of my groom-to-be? Lord Farquaad? 
-What's he like?
+                                     MHARRY
 
-SHREK
-Let me put it this way, Princess. Men 
-of Farquaad's stature are in short supply. 
-(he and Donkey laugh)
+                         With feeling!
 
-Shrek then proceeds to splash water onto his face to wash off 
-the dust and grime.
+                                     HERMIONE
 
-DONKEY
-I don't know. There are those who think 
-little of him. (they laugh again) Fiona: 
-Stop it. Stop it, both of you. You're 
-just jealous you can never measure up 
-to a great ruler like Lord Farquaad.
+                         Up. Up! Up. Up!
 
+                                     RON WEASLEY
 
-SHREK
-Yeah, well, maybe you're right, Princess. 
-But I'll let you do the "measuring" 
-when you see him tomorrow.
+                         UP! Ow! Shut up Harry.
 
-FIONA
-(looks at the setting sun) Tomorrow? 
-It'll take that long? Shouldn't we stop 
-to make camp?
+                                     MHARRY
 
-SHREK
-No, that'll take longer. We can keep 
-going.
+                         Now once you've got hold of your broom, 
+                         I want you to mount it. Grip it tight. 
+                         You don't wanna be sliding off the end. 
+                         When I blow my whistle, I want each 
+                         of you to kick off from the ground, 
+                         hard. Keep your broom steady, hover 
+                         for a moment, then lean forward slightly 
+                         and touch back down. On my whistle. 
+                         Three, two... Mr. Longbottom. Mr. Mr. 
+                         Mr. Longbottom!
+ 
+                                     OTHS
 
-FIONA
-But there's robbers in the woods.
+                         Down! Down!
 
-DONKEY
-Whoa! Time out, Shrek! Camp is starting 
-to sound good.
+                                     HARRY
 
-SHREK
-Hey, come on. I'm scarier than anything 
-we're going to see in this forest.
+                         Neville!
 
+                                     NEVILLE
 
-FIONA
-I need to find somewhere to camp now!
+                         Help! Help!
 
+                                     MHARRY
 
-Both Donkey and Shrek's ears lower as they shrink away from her.
+                         Come back down this instant! Mr. Longbottom! 
+                         Everyone out of the way!
+ 
+                                     HERMIONE
 
+                         Is he alright?
 
-MOUNTAIN CLIFF
+                                     NEVILLE
 
-Shrek has found a cave that appears to be in good order. He shoves 
-a stone boulder out of the way to reveal the cave.
+                         Ow!
 
-SHREK
-Hey! Over here.
+                                     MHARRY
 
-DONKEY
-Shrek, we can do better than that. I 
-don't think this is fit for a princess.
+                         Oh oh oh. Oh dear, it's a broken wrist. 
+                         Poor boy. Come on now, up you get. Everyone 
+                         is to keep their feet firmly on the 
+                         ground while I take Mr. Longbottom to 
+                         the hospital wing. Understand? If I 
+                         see a single broom in the air the one 
+                         riding it will find themselves out of 
+                         Hogwarts before they can say "Quidditch".
+ 
+                         
+                                     DRACO MALFOY
 
+                         Did you see his face? If the fat lump 
+                         had given this a squeeze he would remember 
+                         to fall on his fat arse.
+ 
+                                     HARRY
 
-FIONA
-No, no, it's perfect. It just needs 
-a few homey touches.
+                         Give it here Malfoy.
 
-SHREK
-Homey touches? Like what? (he hears 
-a tearing noise and looks over at Fiona 
-who has torn the bark off of a tree.)
+                                     DRACO MALFOY
 
+                         No, I think I'll leave it somewhere 
+                         for Longbottom to find. How about on 
+                         the roof? What's the matter Potter? 
+                         Bit beyond you reach?
+ 
+                                     HERMIONE
 
-FIONA
-A door? Well, gentlemen, I bid thee 
-good night. (goes into the cave and 
-puts the bark door up behind her)
+                         Harry! No way! You heard what Madame 
+                         Hooch said. Besides you don't even know 
+                         how to fly! What an idiot!
+ 
+                                     HARRY
 
+                         Give it here Malfoy or I'll knock you 
+                         off your broom!
+ 
+                                     DRACO MALFOY
 
-DONKEY
-You want me to read you a bedtime story? 
-I will.
+                         Is that so? Have it your way, then!
+ 
+                         
+                                     OTH
 
-FIONA
-(os) I said good night!
+                         Yeah!
 
-Shrek looks at Donkey for a second and then goes to move the 
-boulder back in front of the entrance to the cave with Fiona 
-still inside.
+                                     OTH
 
-DONKEY
-Shrek, What are you doing?
+                         Nice going, Harry!
 
-SHREK
-(laughs) I just- - You know - - Oh, 
-come on. I was just kidding.
+                                     OTH
 
-LATER THAT NIGHT
+                         That was wicked Harry!
 
-Shrek and Donkey are sitting around a campfire. They are staring 
-up into the sky as Shrek points out certain star constellations 
-to Donkey.
+                                     MCGONAGALL
 
-SHREK
-And, uh, that one, that's Throwback, 
-the only ogre to ever spit over three 
-wheat fields.
+                         Harry Potter! Follow me. You wait here.
+ 
+                         
+                                     QUIRRELL
 
-DONKEY
-Right. Yeah. Hey, can you tell my future 
-from these stars?
+                         ... this is an ingredient...
 
-SHREK
-The stars don't tell the future, Donkey. 
-They tell stories. Look, there's Bloodnut, 
-the Flatulent. You can guess what he's 
-famous for.
+                                     MCGONAGALL
 
-DONKEY
-I know you're making this up.
+                         Professor Quirrell, excuse me, excuse 
+                         me could I borrow Wood for a moment, 
+                         please?
+ 
+                                     QUIRRELL
 
-SHREK
-No, look. There he is, and there's the 
-group of hunters running away from his 
-stench.
+                         Well, yes of course.
 
-DONKEY
-That ain't nothin' but a bunch of little 
-dots.
+                                     MCGONAGALL
 
-SHREK
-You know, Donkey, sometimes things are 
-more than they appear. Hmm? Forget it.
+                         Potter, this is Oliver Wood. Wood I 
+                         have found you a Seeker. 
+ 
+                                     
 
+                         
 
-DONKEY
-(heaves a big sigh) Hey, Shrek, what 
-we gonna do when we get our swamp anyway?
+                                     
 
+                         - - - -
 
-SHREK
-Our swamp?
+                                     SIR NEVILLE
 
-DONKEY
-You know, when we're through rescuing 
-the princess.
+                         Have you heard Harry Potter's the new 
+                         Gryffindor Seeker. I always knew he'd 
+                         do well.
+ 
+                                     RON WEASLEY
 
-SHREK
-We? Donkey, there's no "we". There's 
-no "our". There's just me and my swamp. 
-The first thing I'm gonna do is build 
-a ten-foot wall around my land.
+                         Seeker? But first years never make the 
+                         house teams. You must be the youngest 
+                         Quidditch player in...
+ 
+                                     HARRY
 
-DONKEY
-You cut me deep, Shrek. You cut me real 
-deep just now. You know what I think? 
-I think this whole wall thing is just 
-a way to keep somebody out.
+                         A century. According to McGonagall.
+ 
+                         
+                                     FRED WEASLEY
 
-SHREK
-No, do ya think?
+                         Well dome Harry! Wood's just told us!
+ 
+                         
+                                     RON WEASLEY
 
-DONKEY
-Are you hidin' something?
+                         Fred and George are on the team too. 
+                         Beaters.
+ 
+                                     GEORGE WEASLEY
 
-SHREK
-Never mind, Donkey.
+                         Our job is to make sure that you don't 
+                         get bloody up too bad. Can't make any 
+                         promises of course. Rough game Quidditch.
+ 
+                         
+                                     FRED WEASLEY
 
-DONKEY
-Oh, this is another one of those onion 
-things, isn't it?
+                         Brutal! But, nobody's died in years. 
+                         Someone vanishes occasionally.
+ 
+                                     GEORGE WEASLEY
 
-SHREK
-No, this is one of those drop-it and 
-leave-it alone things.
+                         But they'll turn up in a month or two!
+ 
+                         
+                                     RON WEASLEY
 
-DONKEY
-Why don't you want to talk about it?
+                         Oh go on Harry! Quidditch is great. 
+                         Best game there is, and you'll be great 
+                         too!
+ 
+                                     HARRY
 
+                         But I've never even played Quidditch! 
+                         What if I make a fool of myself?
+ 
+                                     HERMIONE
 
-SHREK
-Why do you want to talk about it?
+                         You won't make a fool of yourself. It's 
+                         in your blood.
+ 
+                                     RON WEASLEY
 
-DONKEY
-Why are you blocking?
+                         Woah! Harry, you never told me your 
+                         father was a seeker too!
+ 
+                                     HARRY
 
-SHREK
-I'm not blocking.
+                         I didn't know.
 
-DONKEY
-Oh, yes, you are.
+                                     
 
-SHREK
-Donkey, I'm warning you.
+                         
+                                     
 
-DONKEY
-Who you trying to keep out?
+                         - - - -
 
-SHREK
-Everyone! Okay?
+                                     RON WEASLEY
 
-DONKEY
-(pause) Oh, now we're gettin' somewhere. 
-(grins)
+                         I'm telling you, it's spooky! She knows 
+                         move about you than you do!
+ 
+                                     HARRY
 
-At this point Fiona pulls the 'door' away from the entrance to 
-the cave and peaks out. Neither of the guys see her.
+                         Who doesn't? What's happening?
 
-SHREK
-Oh! For the love of Pete! (gets up and 
-walks over to the edge of the cliff 
-and sits down)
+                                     HERMIONE
 
-DONKEY
-What's your problem? What you got against 
-the whole world anyway?
+                         The staircases change remember?
 
-SHREK
-Look, I'm not the one with the problem, 
-okay? It's the world that seems to have 
-a problem with me. People take one look 
-at me and go. "Aah! Help! Run! A big, 
-stupid, ugly ogre!" They judge me before 
-they even know me. That's why I'm better 
-off alone.
+                                     HARRY
 
-DONKEY
-You know what? When we met, I didn't 
-think you was just a big, stupid, ugly 
-ogre.
+                         Let's go this way.
 
-SHREK
-Yeah, I know.
+                                     RON WEASLEY
 
-DONKEY
-So, uh, are there any donkeys up there?
+                         Before the staircase moves again. Does 
+                         anybody feel like we shouldn't be here?
+ 
+                         
+                                     HERMIONE
 
+                         We're not supposed to be here. This 
+                         is the third floor. It's forbidden!
+ 
+                         
+                                     HARRY
 
-SHREK
-Well, there's, um, Gabby, the Small 
-and Annoying.
+                         Let's go.
 
-DONKEY
-Okay, okay, I see it now. The big shiny 
-one, right there. That one there?
+                                     HERMIONE
 
+                         Flich's cat!
 
-Fiona puts the door back.
+                                     HARRY
 
-SHREK
-That's the moon.
+                         Run! Quick, let's hide through that 
+                         door! It's locked!
+ 
+                                     RON WEASLEY
 
-DONKEY
-Oh, okay.
+                         that's it we're done for!
 
-DuLoc - Farquaad's Bedroom
+                                     HERMIONE
 
-The camera pans over a lot of wedding stuff. Soft music plays 
-in the background. Farquaad is in bed, watching as the Magic 
-Mirror shows him Princess Fiona.
+                         Oh! Move over! Alohomora! Get in!
 
-FARQUAAD
-Again, show me again. Mirror, mirror, 
-show her to me. Show me the princess.
+                                     RON WEASLEY
 
+                         Alohomora?
 
-MIRROR
-Hmph.
+                                     HERMIONE
 
-The Mirror rewinds and begins to play again from the beginning.
+                         Standard Book Of Spells- Chapter 7!
+ 
+                         
+                                     FILCH
 
+                         Any one here my sweet? Come on.
 
-FARQUAAD
-Ah. Perfect.
+                                     HERMIONE
 
-Farquaad looks down at his bare chest and pulls the sheet up 
-to cover himself as though Fiona could see him as he gazes sheepishly 
-at her image in the mirror.
+                         He thinks this door is locked.
 
-MORNING
+                                     RON WEASLEY
 
-Fiona walks out of the cave. She glances at Shrek and Donkey 
-who are still sleeping. She wanders off into the woods and comes 
-across a blue bird. She begins to sing. The bird sings along 
-with her. She hits higher and higher notes and the bird struggles 
-to keep up with her. Suddenly the pressure of the note is too 
-big and the bird explodes. Fiona looks a little sheepish, but 
-she eyes the eggs that the bird left behind. Time lapse, Fiona 
-is now cooking the eggs for breakfast. Shrek and Donkey are still 
-sleeping. Shrek wakes up and looks at Fiona. Donkey's talking 
-in his sleep.
+                         He thinks this door is locked.
 
-DONKEY
-(quietly) Mmm, yeah, you know I like 
-it like that. Come on, baby. I said 
-I like it.
+                                     HERMIONE
 
-SHREK
-Donkey, wake up. (shakes him)
+                         It was locked.
 
-DONKEY
-Huh? What?
+                                     HARRY
 
-SHREK
-Wake up.
+                         And for good reason.
 
-DONKEY
-What? (stretches and yawns)
+                                     H, R, & HERMIONE
 
-FIONA
-Good morning. Hm, how do you like your 
-eggs?
+                         AH!
 
-DONKEY
-Oh, good morning, Princess!
+                                     RON WEASLEY
 
-Fiona gets up and sets the eggs down in front of them.
+                         What do they think they're doing? Keeping 
+                         a thing like that locked up in a school?
+ 
+                         
+                                     HERMIONE
 
-SHREK
-What's all this about?
+                         You don't use your eyes do you? Didn't 
+                         you see what it was standing on?
+ 
+                                     RON WEASLEY
 
-FIONA
-You know, we kind of got off to a bad 
-start yesterday. I wanted to make it 
-up to you. I mean, after all, you did 
-rescue me.
+                         I wasn't looking at its feet! I was 
+                         a bit preoccupied with its heads. Or 
+                         maybe you didn't notice... the three!
+ 
+                         
+                                     HERMIONE
 
-SHREK
-Uh, thanks.
+                         It was standing on a trap door. It wasn't 
+                         there by accident. It's guarding something.
+ 
+                         
+                                     HARRY
 
-Donkey sniffs the eggs and licks his lips.
+                         Guarding something?
 
-FIONA
-Well, eat up. We've got a big day ahead 
-of us. (walks off)
+                                     HERMIONE
 
-LATER
+                         That's right. Now, if you two don't 
+                         mind, I'm going to bed before either 
+                         of you come up with another clever idea 
+                         to get killed or worse... expelled.
+ 
+                         
+                                     RON WEASLEY
 
-They are once again on their way. They are walking through the 
-forest. Shrek belches.
+                         She needs to sort out her priorities.
+ 
+                         
+                                     
 
-DONKEY
-Shrek!
+                         - - - -
 
-SHREK
-What? It's a compliment. Better out 
-than in, I always say. (laughs)
+                                     OLIVER WOOD
 
-DONKEY
-Well, it's no way to behave in front 
-of a princess.
+                         Quidditch is easy enough to understand. 
+                         Each team has 7 players. Three Chasers, 
+                         two Beaters, one Keeper and a Seeker, 
+                         that's you. There are three kinds of 
+                         balls. This one's called the Quaffle. 
+                         The Chasers handle the Quaffle and try 
+                         to put it through one of those three 
+                         hoops. The Keeper, that's me, defends 
+                         the hoops. With me so far?
+ 
+                                     HARRY
 
-Fiona belches
+                         I think so. What are those?
 
-FIONA
-Thanks.
+                                     OLIVER WOOD
 
-DONKEY
-She's as nasty as you are.
+                         You better take this. Careful now, it's 
+                         coming back. Not bad Potter, you'd make 
+                         a fair Beater. Uh-oh.
+ 
+                                     HARRY
 
-SHREK
-(chuckles) You know, you're not exactly 
-what I expected.
+                         What was that?
 
-FIONA
-Well, maybe you shouldn't judge people 
-before you get to know them.
+                                     OLIVER WOOD
 
-She smiles and then continues walking, singing softly. Suddenly 
-from out of nowhere, a man swings down and swoops Fiona up into 
-a tree.
+                         Bludgers. Nasty little buggers. But 
+                         you are a Seeker. The only thing I want 
+                         you to worry about is this, the Golden 
+                         Snitch.
+ 
+                                     HARRY
 
-ROBIN HOOD
-La liberte! Hey!
+                         I like this ball.
 
-SHREK
-Princess!
+                                     OLIVER WOOD
 
-FIONA
-(to Robin Hood) What are you doing?
+                         Eh, you like it now. But it's wicked 
+                         fast and damn near impossible to see.
+ 
+                         
+                                     HARRY
 
+                         What do I do with it?
 
-ROBIN HOOD
-Be still, mon cherie, for I am you savior! 
-And I am rescuing you from this green...(kisses 
-up her arm while Fiona pulls back in 
-disgust)...beast.
+                                     OLIVER WOOD
 
-SHREK
-Hey! That's my princess! Go find you 
-own!
+                         You catch it. Before the other team's 
+                         Seeker. You catch this the game's over. 
+                         You catch this, Potter, and we win.
+ 
+                         
+                                     HARRY
 
-ROBIN HOOD
-Please, monster! Can't you see I'm a 
-little busy here?
+                         Woah!
 
-FIONA
-(getting fed up) Look, pal, I don't 
-know who you think you are!
+                                     
 
-ROBIN HOOD
-Oh! Of course! Oh, how rude. Please 
-let me introduce myself. Oh, Merry Men. 
-(laughs)
+                         - - - -
 
-Suddenly an accordion begins to play and the Merry men pop out 
-from the bushes. They begin to sing Robin's theme song.
+                                     PROFESSOR FLITWICK
 
-MERRY MEN
-Ta, dah, dah, dah, whoo.
+                         One of a wizard's most rudimental skill 
+                         is levitation or the ability to make 
+                         objects fly. Do you all have your feathers? 
+                         Good. Now don't forget the nice wrist 
+                         movement we've been practicing. Hum! 
+                         The "Swish and Flick". Everyone, the 
+                         "Swish and Flick". Good! Oh and annunciate! 
+                         Wingardium Leviosa. Off you go then!
+ 
+                         
+                                     OTHS
 
-ROBIN HOOD
-I steal from the rich and give to the 
-needy.
+                         Wingardium Leviosa; Wingardium Leviosa!
+ 
+                         
+                                     RON WEASLEY
 
-MERRY MEN
-He takes a wee percentage,
+                         Wingardium Leviosa!
 
-ROBIN HOOD
-But I'm not greedy. I rescue pretty 
-damsels, man, I'm good.
+                                     HERMIONE
 
-MERRY MEN
-What a guy, Monsieur Hood.
+                         No, stop stop stop! You're going to 
+                         take someone's eye out! Besides, you're 
+                         saying it wrong. It's Levi-o-sa, not 
+                         Leviosar.
+ 
+                                     RON WEASLEY
 
-ROBIN HOOD
-Break it down. I like an honest fight 
-and a saucy little maid...
+                         You do it then if you're so clever. 
+                         Go on, go on!
+ 
+                                     HERMIONE
 
-MERRY MEN
-What he's basically saying is he likes 
-to get...
+                         Wingardium Leviosa.
 
-ROBIN HOOD
-Paid. So...When an ogre in the bush 
-grabs a lady by the tush. That's bad.
+                                     PROFESSOR FLITWICK
 
+                         Oh oh! Well done! See here everyone, 
+                         Miss Granger's done it! Ho ho! Splendid!
+ 
+                         
+                                     SFRED WEASLEY
 
-MERRY MEN
-That's bad.
+                         Wingard-Leviosa; Wingard-- Leviosa
+ 
+                         
+                                     PROFESSOR FLITWICK
 
-ROBIN HOOD
-When a beauty's with a beast it makes 
-me awfully mad.
+                         Well done dear. OH!
 
-MERRY MEN
-He's mad, he's really, really mad.
+                                     HARRY
 
+                         I think we're going to need another 
+                         feather over here professor.
+ 
+                                     RON WEASLEY
 
-ROBIN HOOD
-I'll take my blade and ram it through 
-your heart, keep your eyes on me, boys 
-'cause I'm about to start...
+                         "It's Levi-o-sa not Leviosar." She's 
+                         a nightmare honestly! It's no wonder 
+                         she hasn't got any friends!
+ 
+                                     HARRY
 
-There is a grunt as Fiona swings down from the tree limb and 
-knocks Robin Hood unconscious.
+                         I think she heard you.
 
-FIONA
-Man, that was annoying!
+                                     
 
-Shrek looks at her in admiration.
+                         
+                                     HARRY
 
-MERRY MAN
-Oh, you little- - (shoots an arrow at 
-Fiona but she ducks out of the way)
+                         Where's Hermione?
 
+                                     NEVILLE
 
-The arrow flies toward Donkey who jumps into Shrek's arms to 
-get out of the way. The arrow proceeds to just bounce off a tree.
+                         Parvati Patil said she's wouldn't come 
+                         out of the girl's bathroom. She said 
+                         she's been there all afternoon, crying.
+ 
+                         
+                                     QUIRRELL
 
+                         Troll in the dungeon! Troll in the dungeon! 
+                         Though you ought to know.
+ 
+                                     OTHS
 
-Another fight sequence begins and Fiona gives a karate yell and 
-then proceeds to beat the crap out of the Merry Men. There is 
-a very interesting 'Matrix' moment here when Fiona pauses in 
-mid-air to fix her hair. Finally all of the Merry Men are down, 
-and Fiona begins walking away.
+                         Ah!
 
-FIONA
-Uh, shall we?
+                                     DUMBLEDORE
 
-SHREK
-Hold the phone. (drops Donkey and begins 
-walking after Fiona) Oh! Whoa, whoa, 
-whoa. Hold on now. Where did that come 
-from?
+                         SILENCE! Everyone will please not panic! 
+                         Now prefects please escort your house 
+                         to the dormitories. Teachers will follow 
+                         me to the dungeons.
+ 
+                                     PERCY
 
-FIONA
-What?
+                         Gryffindors, keep up, please, and stay 
+                         alert!
+ 
+                                     HARRY
 
-SHREK
-That! Back there. That was amazing! 
-Where did you learn that?
+                         How could a troll get in?
 
-FIONA
-Well...(laughs) when one lives alone, 
-uh, one has to learn these things in 
-case there's a...(gasps and points) 
-there's an arrow in your butt!
+                                     RON WEASLEY
 
-SHREK
-What? (turns and looks) Oh, would you 
-look at that? (he goes to pull it out 
-but flinches because it's tender)
+                         Not on its own. Trolls are really stupid. 
+                         Probably people playing jokes. What?
+ 
+                         
+                                     HARRY
 
+                         Hermione! She doesn't know!
 
-FIONA
-Oh, no. This is all my fault. I'm so 
-sorry.
+                                     RON WEASLEY
 
-DONKEY
-(walking up) Why? What's wrong?
+                         I think the troll's left the dungeon!
+ 
+                         
+                                     HARRY
 
-FIONA
-Shrek's hurt.
+                         It's going into the girl's bathroom. 
+                         Hermione move!
+ 
+                                     HERMIONE
 
-DONKEY
-Shrek's hurt. Shrek's hurt? Oh, no, 
-Shrek's gonna die.
+                         Help! Help!
 
-SHREK
-Donkey, I'm okay.
+                                     RON WEASLEY
 
-DONKEY
-You can't do this to me, Shrek. I'm 
-too young for you to die. Keep you legs 
-elevated. Turn your head and cough. 
-Does anyone know the Heimlich?
+                         Hey, pea brain!
 
-FIONA
-Donkey! Calm down. If you want to help 
-Shrek, run into the woods and find me 
-a blue flower with red thorns.
+                                     HERMIONE
 
-DONKEY
-Blue flower, red thorns. Okay, I'm on 
-it. Blue flower, red thorns. Don't die 
-Shrek. If you see a long tunnel, stay 
-away from the light!
+                         Ah! Help!
 
-SHREK & FIONA
-Donkey!
+                                     HARRY
 
-DONKEY
-Oh, yeah. Right. Blue flower, red thorns. 
-(runs off)
+                         Woah!
 
-SHREK
-What are the flowers for?
+                                     RON WEASLEY
 
-FIONA
-(like it's obvious) For getting rid 
-of Donkey.
+                         Ugh!
 
-SHREK
-Ah.
+                                     HARRY
 
-FIONA
-Now you hold still, and I'll yank this 
-thing out. (gives the arrow a little 
-pull)
+                         Do something!
 
-SHREK
-(jumps away) Ow! Hey! Easy with the 
-yankin'.
+                                     RON WEASLEY
 
-As they continue to talk Fiona keeps going after the arrow and 
-Shrek keeps dodging her hands.
+                         What?
 
-FIONA
-I'm sorry, but it has to come out.
+                                     HARRY
 
+                         Anything! Hurry up!
 
-SHREK
-No, it's tender.
+                                     HERMIONE
 
-FIONA
-Now, hold on.
+                         "Swish & Flick!"
 
-SHREK
-What you're doing is the opposite of 
-help.
+                                     RON WEASLEY
 
-FIONA
-Don't move.
+                         Wingardium Leviosa! Cool.
 
-SHREK
-Look, time out.
+                                     HERMIONE
 
-FIONA
-Would you...(grunts as Shrek puts his 
-hand over her face to stop her from 
-getting at the arrow) Okay. What do 
-you propose we do?
+                         Is it dead?
 
-ELSEWHERE
+                                     HARRY
 
-Donkey is still looking for the special flower.
+                         No just knocked out.
 
-DONKEY
-Blue flower, red thorns. Blue flower, 
-red thorns. Blue flower, red thorns. 
-This would be so much easier if I wasn't 
-color-blind! Blue flower, red thorns.
+                                     HARRY
 
+                         Ugh.
 
-SHREK
-(os) Ow!
+                                     RON WEASLEY
 
-DONKEY
-Hold on, Shrek! I'm comin'! (rips a 
-flower off a nearby bush that just happens 
-to be a blue flower with red thorns)
+                         Troll boogies.
 
+                                     MCGONAGALL
 
-THE FOREST PATH
+                         Oh my goodness! Explain yourselves both 
+                         of you!
+ 
+                                     H & RON WEASLEY
 
-SHREK
-Ow! Not good.
+                         Well what it is-
 
-FIONA
-Okay. Okay. I can nearly see the head. 
-(Shrek grunts as she pulls) It's just 
-about...
+                                     HERMIONE
 
-SHREK
-Ow! Ohh! (he jerks and manages to fall 
-over with Fiona on top of him)
+                         It's my fault Professor Mc Gonagall
+ 
+                         
+                                     MCGONAGALL
 
-DONKEY
-Ahem.
+                         Miss. Granger?
 
-SHREK
-(throwing Fiona off of him) Nothing 
-happend. We were just, uh - -
+                                     HERMIONE
 
-DONKEY
-Look, if you wanted to be alone, all 
-you had to do was ask. Okay?
+                         I went looking for the troll I've read 
+                         about them and I though I could handle 
+                         it. But I was wrong.  If Harry and Ron 
+                         hadn’t come and found me... I’d probably 
+                         be dead.
+ 
+                                     MCGONAGALL
 
-SHREK
-Oh, come on! That's the last thing on 
-my mind. The princess here was just- 
-- (Fiona pulls the arrow out) Ugh! (he 
-turns to look at Fiona who holds up 
-the arrow with a smile) Ow!
+                         Be that as it may, it was an extremely 
+                         foolish thing to do. I would have expected 
+                         more rational behavior on your part 
+                         and am very disappointed in you Miss. 
+                         Granger. Five points will be taken from 
+                         Gryffindor for your serious lack of 
+                         judgement. As for you two gentle I just 
+                         hope you realize how fortunate you are. 
+                         Not many first year students could take 
+                         on a fully grown mountain troll and 
+                         live to tell the tale. Five points will 
+                         be awarded to each of you, for sheer 
+                         dumb luck.
+ 
+                                     QUIRRELL
 
-DONKEY
-Hey, what's that? (nervous chuckle) 
-That's...is that blood?
+                         Perhaps you ought to go. It might wake 
+                         up.
+ 
+                                     
 
-Donkey faints. Shrek walks over and picks him up as they continue 
-on their way.
+                         - - - -
 
-There is a montage of scenes as the group heads back to DuLoc. 
-Shrek crawling up to the top of a tree to make it fall over a 
-small brook so that Fiona won't get wet. Shrek then gets up as 
-Donkey is just about to cross the tree and the tree swings back 
-into it's upright position and Donkey flies off. Shrek swatting 
-and a bunch of flies and mosquitoes. Fiona grabs a nearby spiderweb 
-that's on a tree branch and runs through the field swinging it 
-around to catch the bugs. She then hands it to Shrek who begins 
-eating like it's a treat. As he walks off she licks her fingers. 
-Shrek catching a toad and blowing it up like a balloon and presenting 
-it to Fiona. Fiona catching a snake, blowing it up, fashioning 
-it into a balloon animal and presenting it to Shrek. The group 
-arriving at a windmill that is near DuLoc.
+                                     RON WEASLEY
 
-WINDMILL
+                         Take a bit of toast, mate. Go on.
 
-SHREK
-There it is, Princess. Your future awaits 
-you.
+                                     HERMIONE
 
-FIONA
-That's DuLoc?
+                         Ron's right Harry, you're going to need 
+                         your strength today.
+ 
+                                     HARRY
 
-DONKEY
-Yeah, I know. You know, Shrek thinks 
-Lord Farquaad's compensating for something, 
-which I think means he has a really...(Shrek 
-steps on his hoof) Ow!
+                         I'm not hungry.
 
-SHREK
-Um, I, uh- - I guess we better move 
-on.
+                                     SEVERUS SNAPE
 
-FIONA
-Sure. But, Shrek? I'm - - I'm worried 
-about Donkey.
+                         Good luck today, Potter. Then again, 
+                         now that you've proven yourself against 
+                         a troll, a little game of Quidditch 
+                         should be easy work for you. Even if 
+                         it is against Slytherin.
+ 
+                                     HARRY
 
-SHREK
-What?
+                         That explains the blood.
 
-FIONA
-I mean, look at him. He doesn't look 
-so good.
+                                     HERMIONE
 
-DONKEY
-What are you talking about? I'm fine.
+                         Blood?
 
+                                     HARRY
 
-FIONA
-(kneels to look him in the eyes) That's 
-what they always say, and then next 
-thing you know, you're on your back. 
-(pause) Dead.
+                         Listen, last night, I'm guessing Snape 
+                         let the troll in as diversion so he 
+                         could get past that three headed dog. 
+                         But, he got bit, that's why he's limping.
+ 
+                         
+                                     HERMIONE
 
-SHREK
-You know, she's right. You look awful. 
-Do you want to sit down?
+                         But why would anyone go near that dog?
+ 
+                         
+                                     HARRY
 
-FIONA
-Uh, you know, I'll make you some tea.
+                         The day I was at Gringotts, Hagrid took 
+                         something out of one of the vaults. 
+                         Said it was Hogwarts business, very 
+                         secret.
+ 
+                                     HERMIONE
 
+                         So you're saying- -
 
-DONKEY
-I didn't want to say nothin', but I 
-got this twinge in my neck, and when 
-I turn my head like this, look, (turns 
-his neck in a very sharp way until his 
-head is completely sideways) Ow! See?
+                                     HARRY
 
+                         That's what the dog's guarding. That's 
+                         what Snape wants.
+ 
+                                     HERMIONE
 
-SHREK
-Who's hungry? I'll find us some dinner.
+                         A bit early for mail isn't it?
 
+                                     HARRY
 
-FIONA
-I'll get the firewood.
+                         But, I never get mail.
 
-DONKEY
-Hey, where you goin'? Oh, man, I can't 
-feel my toes! (looks down and yelps) 
-I don't have any toes! I think I need 
-a hug.
+                                     RON WEASLEY
 
-SUNSET
+                         Let's open it.
 
-Shrek has built a fire and is cooking the rest of dinner while 
-Fiona eats.
+                                     HARRY
 
-FIONA
-Mmm. This is good. This is really good. 
-What is this?
+                         It's a broomstick.
 
-SHREK
-Uh, weed rat. Rotisserie style.
+                                     RON WEASLEY
 
-FIONA
-No kidding. Well, this is delicious.
+                         It's not just a broomstick, Harry. It's 
+                         a Nimbus 2000!
+ 
+                                     HARRY
 
+                         But who--?
 
-SHREK
-Well, they're also great in stews. Now, 
-I don't mean to brag, but I make a mean 
-weed rat stew. (chuckles)
+                                     
 
-Fiona looks at DuLoc and sighs.
+                         
+                                     OLIVER WOOD
 
-FIONA
-I guess I'll be dining a little differently 
-tomorrow night.
+                         Scared, Harry?
 
-SHREK
-Maybe you can come visit me in the swamp 
-sometime. I'll cook all kind of stuff 
-for you. Swamp toad soup, fish eye tartare 
-- - you name it.
+                                     HARRY
 
-FIONA
-(smiles) I'd like that.
+                         A little.
 
-They smiles at each other.
+                                     OLIVER WOOD
 
-SHREK
-Um, Princess?
+                         It's alright. I felt the same way before 
+                         my first game.
+ 
+                                     HARRY
 
-FIONA
-Yes, Shrek?
+                         What happened?
 
-SHREK
-I, um, I was wondering...are you...(sighs) 
-Are you gonna eat that?
+                                     OLIVER WOOD
 
-DONKEY
-(chuckles) Man, isn't this romantic? 
-Just look at that sunset.
+                         I.. uh...I don't really remember... 
+                         Took a Bludger to the head two minutes 
+                         in. Woke in the hospital a week later.
+ 
+                         
+                                     LJ
 
-FIONA
-(jumps up) Sunset? Oh, no! I mean, it's 
-late. I-It's very late.
+                         Hello! Welcome to Hogwart's first Quidditch 
+                         game of the season! Today's game: Slytherin 
+                         vs. Gryffindor! The player take their 
+                         positions as Madam Hooch steps onto 
+                         the field to begin the game!
+ 
+                                     MHARRY
 
-SHREK
-What?
+                         Now, I want a nice clean game... from 
+                         all of you.
+ 
+                                     LJ
 
-DONKEY
-Wait a minute. I see what's goin' on 
-here. You're afraid of the dark, aren't 
-you?
+                         The Bludgers are up. Followed by the 
+                         Golden Snitch. Remember the Snitch is 
+                         worth 150 points. The Seeker who catches 
+                         the Snitch ends the game. The Quaffle 
+                         is released and the game begins! Anjelina 
+                         Johnson scores! Ten points for Gryffindor!
+ 
+                         
+                                     HAGRID
 
-FIONA
-Yes! Yes, that's it. I'm terrified. 
-You know, I'd better go inside.
+                         Well done!
 
-DONKEY
-Don't feel bad, Princess. I used to 
-be afraid of the dark, too, until - 
-- Hey, no, wait. I'm still afraid of 
-the dark.
+                                     LJ
 
-Shrek sighs
+                         Slytherin takes the Quaffle. Bletchley 
+                         passes to Captain Marcus Flint. Another 
+                         ten points to Gryffindor!
+ 
+                                     MFRED WEASLEY
 
-FIONA
-Good night.
+                         Give me that! Take that side!
 
-SHREK
-Good night.
+                                     HAGRID
 
-Fiona goes inside the windmill and closes the door. Donkey looks 
-at Shrek with a new eye.
+                         What's going on with Harry's broomstick?
+ 
+                         
+                                     HERMIONE
 
-DONKEY
-Ohh! Now I really see what's goin' on 
-here.
+                         It's Snape! He's jinxing the broom!
+ 
+                         
+                                     RON WEASLEY
 
-SHREK
-Oh, what are you talkin' about?
+                         Jinxing the broom?! What do we do?
+ 
+                         
+                                     HERMIONE
 
-DONKEY
-I don't even wanna hear it. Look, I'm 
-an animal, and I got instincts. And 
-I know you two were diggin' on each 
-other. I could feel it.
+                         Leave it to me!
 
-SHREK
-You're crazy. I'm just bringing her 
-back to Farquaad.
+                                     RON WEASLEY
 
-DONKEY
-Oh, come on, Shrek. Wake up and smell 
-the pheromones. Just go on in and tell 
-her how you feel.
+                         Come on Hermione!
 
-SHREK
-I- - There's nothing to tell. Besides, 
-even if I did tell her that, well, you 
-know - - and I'm not sayin' I do 'cause 
-I don't - - she's a princess, and I'm 
-- -
+                                     HERMIONE
 
-DONKEY
-An ogre?
+                         Lacarnum Inflamarae.
 
-SHREK
-Yeah. An ogre.
+                                     OTH
 
-DONKEY
-Hey, where you goin'?
+                         Fire! You're on fire!
 
-SHREK
-To get... move firewood. (sighs)
+                                     HAGRID
 
-Donkey looks over at the large pile of firewood there already 
-is.
+                         Go, go, go, go! Looks like he's gonna 
+                         be sick!
+ 
+                                     LJ
 
-TIME LAPSE
+                         He's got the Snitch! Harry Potter receives 
+                         150 points for catching the Snitch!
+ 
+                         
+                                     MHARRY
 
-Donkey opens the door to the Windmill and walks in. Fiona is 
-nowhere to be seen.
+                         Gryffindor wins!
 
-DONKEY
-Princess? Princess Fiona? Princess, 
-where are you? Princess?
+                                     HAGRID
 
-Fiona looks at Donkey from the shadows, but we can't see her.
+                         Yes!
 
+                                     OTHS
 
-DONKEY
-It's very spooky in here. I ain't playing 
-no games.
+                         Harry Potter Gyffindor! Harry Potter 
+                         Gyffindor! Harry Potter Gyffindor! Harry 
+                         Potter Gyffindor! Harry Potter Gyffindor!
+ 
+                         
+                                     
 
-Suddenly Fiona falls from the railing. She gets up only she doesn't 
-look like herself. She looks like an ogre and Donkey starts freaking 
-out.
+                         
+                                     
 
-DONKEY
-Aah!
+                         - - - -
 
-FIONA
-Oh, no!
+                                     HAGRID
 
-DONKEY
-No, help!
+                         Nonsense! Why would Snape put a curse 
+                         on Harry's broom?
+ 
+                                     HARRY
 
-FIONA
-Shh!
+                         Who knows? Why was he trying to get 
+                         past that three-headed dog on Halloween?
+ 
+                         
+                                     HAGRID
 
-DONKEY
-Shrek! Shrek! Shrek!
+                         Who told you about Fluffy?
 
-FIONA
-No, it's okay. It's okay.
+                                     RON WEASLEY
 
-DONKEY
-What did you do with the princess?
+                         Fluffy?
 
+                                     HERMIONE
 
-FIONA
-Donkey, I'm the princess.
+                         That thing has a name?
 
-DONKEY
-Aah!
+                                     HAGRID
 
-FIONA
-It's me, in this body.
+                         Well, of course, he's got a name! He's 
+                         mine! I brought him off an Irish feller 
+                         I met down at the pub last year. Then 
+                         I lent him to Dumbledore to guard the---
+ 
+                         
+                                     HARRY
 
-DONKEY
-Oh, my God! You ate the princess. (to 
-her stomach) Can you hear me?
+                         Yes?
 
-FIONA
-Donkey!
+                                     HAGRID
 
-DONKEY
-(still aimed at her stomach) Listen, 
-keep breathing! I'll get you out of 
-there!
+                         I shouldn't have said that. No more 
+                         questions! Don't ask anymore question! 
+                         That's top- secret that is.
+ 
+                                     HARRY
 
-FIONA
-No!
+                         But Hagrid, whatever Fluffy's guarding 
+                         Snape's trying to steal it!
+ 
+                                     HAGRID
 
-DONKEY
-Shrek! Shrek! Shrek!
+                         Codswallop! Professor Snape is a Hogwarts 
+                         teacher!
+ 
+                                     HERMIONE
 
-FIONA
-Shh.
+                         Hogwarts teacher or not I know a spell 
+                         when I see one! I've read all about 
+                         them. You've got to keep eye contact 
+                         and Snape wasn't blinking!
+ 
+                                     HARRY
 
-DONKEY
-Shrek!
+                         Exactly.
 
-FIONA
-This is me.
+                                     HAGRID
 
-Donkey looks into her eyes as she pets his muzzle, and he quiets 
-down.
+                         Now listen to me, all three of you, 
+                         you're meddling in things that ought 
+                         not to be meddled in. It's dangerous! 
+                         What that dog is guarding is strictly 
+                         between Professor Dumbledore and Nicholas 
+                         Flamel.
+ 
+                                     HARRY
 
-DONKEY
-Princess? What happened to you? You're, 
-uh, uh, uh, different.
+                         Nicholas Flamel?
 
-FIONA
-I'm ugly, okay?
+                                     HAGRID
 
-DONKEY
-Well, yeah! Was it something you ate? 
-'Cause I told Shrek those rats was a 
-bad idea. You are what you eat, I said. 
-Now - -
+                         I shouldn't have said that. I should 
+                         not have said that.
+ 
+                                     HARRY
 
-FIONA
-No. I - - I've been this way as long 
-as I can remember.
+                         Nicholas Flamel. Who's Nicholas Flamel?
+ 
+                         
+                                     HERMIONE
 
-DONKEY
-What do you mean? Look, I ain't never 
-seen you like this before.
+                         I don't know.
 
-FIONA
-It only happens when sun goes down. 
-"By night one way, by day another. This 
-shall be the norm... until you find 
-true love's first kiss... and then take 
-love's true form."
+                                     
 
-DONKEY
-Ah, that's beautiful. I didn't know 
-you wrote poetry.
+                         
+                                     HOGWART GHOSTS
 
-FIONA
-It's a spell. (sigh) When I was a little 
-girl, a witch cast a spell on me. Every 
-night I become this. This horrible, 
-ugly beast! I was placed in a tower 
-to await the day my true love would 
-rescue me. That's why I have to marry 
-Lord Farquaad tomorrow before the sun 
-sets and he sees me like this. (begins 
-to cry)
+                         Merry Christmas, Merry Christmas. Ring 
+                         the Hogwart bell. Merry Christmas, Merry 
+                         Christmas. Cast a Christmas spell.
+ 
+                         
+                                     HARRY
 
-DONKEY
-All right, all right. Calm down. Look, 
-it's not that bad. You're not that ugly. 
-Well, I ain't gonna lie. You are ugly. 
-But you only look like this at night. 
-Shrek's ugly 24-7.
+                         Knight to E-5.
 
-FIONA
-But Donkey, I'm a princess, and this 
-is not how a princess is meant to look.
+                                     RON WEASLEY
 
+                         Queen to E-5.
 
-DONKEY
-Princess, how 'bout if you don't marry 
-Farquaad?
+                                     HERMIONE
 
-FIONA
-I have to. Only my true love's kiss 
-can break the spell.
+                         That's totally barbaric!
 
-DONKEY
-But, you know, um, you're kind of an 
-orge, and Shrek - - well, you got a 
-lot in common.
+                                     RON WEASLEY
 
-FIONA
-Shrek?
+                         That's wizard's chess. I see you've 
+                         packed.
+ 
+                                     HERMIONE
 
-OUTSIDE
+                         See you haven't.
 
-Shrek is walking towards the windmill with a sunflower in his 
-hand.
+                                     RON WEASLEY
 
-SHREK
-(to himself) Princess, I - - Uh, how's 
-it going, first of all? Good? Um, good 
-for me too. I'm okay. I saw this flower 
-and thought of you because it's pretty 
-and - - well, I don't really like it, 
-but I thought you might like it 'cause 
-you're pretty. But I like you anyway. 
-I'd - - uh, uh...(sighs) I'm in trouble. 
-Okay, here we go.
+                         Change of plans. My parents have decided 
+                         to go to Romania to visit my brother 
+                         Charlie. He's studying dragons there.
+ 
+                         
+                                     HERMIONE
 
-He walks up to the door and pauses outside when he hears Donkey 
-and Fiona talking.
+                         Good. You can help Harry then. He's 
+                         going to look in the library for information 
+                         on Nicholas Flamel.
+ 
+                                     RON WEASLEY
 
-FIONA
-(os) I can't just marry whoever I want. 
-Take a good look at me, Donkey. I mean, 
-really, who can ever love a beast so 
-hideous and ugly? "Princess" and "ugly" 
-don't go together. That's why I can't 
-stay here with Shrek.
+                         We've looked a hundred times!
 
-Shrek steps back in shock.
+                                     HERMIONE
 
-FIONA
-(os) My only chance to live happily 
-ever after is to marry my true love.
+                         Not in the Restricted Section. Happy 
+                         Christmas.
+ 
+                                     RON WEASLEY
 
+                         I think we've had a bad influence on 
+                         her.
+ 
+                                     
 
-Shrek heaves a deep sigh. He throws the flower down and walks 
-away.
+                         
+                                     
 
-INSIDE
+                         - - - -
 
-FIONA
-Don't you see, Donkey? That's just how 
-it has to be. It's the only way to break 
-the spell.
+                                     RON WEASLEY
 
-DONKEY
-You at least gotta tell Shrek the truth.
+                         Harry wake up! Come on Harry! Wake up! 
+                         Happy Christmas Harry!
+ 
+                                     HARRY
 
+                         Happy Christmas Ron! What are you wearing?
+ 
+                         
+                                     RON WEASLEY
 
-FIONA
-No! You can't breathe a word. No one 
-must ever know.
+                         Oh, my mum made it. Looks like you've 
+                         got one too.
+ 
+                                     HARRY
 
-DONKEY
-What's the point of being able to talk 
-if you gotta keep secrets?
+                         I've got presents?
 
-FIONA
-Promise you won't tell. Promise!
+                                     RON WEASLEY
 
-DONKEY
-All right, all right. I won't tell him. 
-But you should. (goes outside) I just 
-know before this is over, I'm gonna 
-need a whole lot of serious therapy. 
-Look at my eye twitchin'.
+                         Yeah! There they are.
 
-Fiona comes out the door and watches him walk away. She looks 
-down and spots the sunflower. She picks it up before going back 
-inside the windmill.
+                                     HARRY
 
-MORNING
+                         "Your father left this in my possession 
+                         before he died. It is time it was returned 
+                         to you. Use it well."?
+ 
+                                     RON WEASLEY
 
-Donkey is asleep. Shrek is nowhere to be seen. Fiona is still 
-awake. She is plucking petals from the sunflower.
+                         What is it?
 
-FIONA
-I tell him, I tell him not. I tell him, 
-I tell him not. I tell him. (she quickly 
-runs to the door and goes outside) Shrek! 
-Shrek, there's something I want...(she 
-looks and sees the rising sun, and as 
-the sun crests the sky she turns back 
-into a human.)
+                                     HARRY
 
-Just as she looks back at the sun she sees Shrek stomping towards 
-her.
+                         Some kind of cloak.
 
-FIONA
-Shrek. Are you all right?
+                                     RON WEASLEY
 
-SHREK
-Perfect! Never been better.
+                         Well let's see then! Put it on! Woah!
+ 
+                         
+                                     HARRY
 
-FIONA
-I - - I don't - - There's something 
-I have to tell you.
+                         My body is gone!
 
-SHREK
-You don't have to tell me anything, 
-Princess. I heard enough last night.
+                                     RON WEASLEY
 
+                         I know what that is! That's an Invisibility 
+                         Cloak!
+ 
+                                     HARRY
 
-FIONA
-You heard what I said?
+                         I'm invisible?
 
-SHREK
-Every word.
+                                     RON WEASLEY
 
-FIONA
-I thought you'd understand.
+                         They're really rare. I wonder who gave 
+                         it to you.
+ 
+                                     HARRY
 
-SHREK
-Oh, I understand. Like you said, "Who 
-could love a hideous, ugly beast?"
+                         There was no name. It just said, "Use 
+                         it well."
+ 
+                                     HARRY
 
+                         Famous Fire Eaters. Fifteenth Century 
+                         Fiends. Flamel. Nicholas Flamel. Where 
+                         are you?
+ 
+                                     FILCH
 
-FIONA
-But I thought that wouldn't matter to 
-you.
+                         I know you're in there. You can't hide. 
+                         Who is it? Show yourself!
+ 
+                                     QUIRRELL
 
-SHREK
-Yeah? Well, it does. (Fiona looks at 
-him in shock. He looks past her and 
-spots a group approaching.) Ah, right 
-on time. Princess, I've brought you 
-a little something.
+                         Severus I-I-I
 
-Farquaad has arrived with a group of his men. He looks very regal 
-sitting up on his horse. You would never guess that he's only 
-like 3 feet tall. Donkey wakes up with a yawn as the soldiers 
-march by.
+                                     SEVERUS SNAPE
 
-DONKEY
-What'd I miss? What'd I miss? (spots 
-the soldiers) (muffled) Who said that? 
-Couldn't have been the donkey.
+                         You don't want me as your enemy Quirrell.
+ 
+                         
+                                     QUIRRELL
 
-FARQUAAD
-Princess Fiona.
+                         I don't know what you mean.
 
-SHREK
-As promised. Now hand it over.
+                                     SEVERUS SNAPE
 
-FARQUAAD
-Very well, ogre. (holds out a piece 
-of paper) The deed to your swamp, cleared 
-out, as agreed. Take it and go before 
-I change my mind. (Shrek takes the paper) 
-Forgive me, Princess, for startling 
-you, but you startled me, for I have 
-never seen such a radiant beauty before. 
-I'm Lord Farquaad.
+                         You know perfectly well what I mean. 
+                         We'll have another little chat soon. 
+                         When you've had time to decide where 
+                         your loyalties lie.
+ 
+                                     FILCH
 
-FIONA
-Lord Farquaad? Oh, no, no. (Farquaad 
-snaps his fingers) Forgive me, my lord, 
-for I was just saying a short... (Watches 
-as Farquaad is lifted off his horse 
-and set down in front of her. He comes 
-to her waist.) farewell.
+                         Professors. I found this in the Restricted 
+                         Section. It's still hot. That means 
+                         there's a student out of bed.
+ 
+                                     HARRY
 
-FARQUAAD
-Oh, that is so sweet. You don't have 
-to waste good manners on the ogre. It's 
-not like it has feelings.
+                         Mum, Dad? Ron! You've really gotta see 
+                         this! Ron! You've gotta see this! Ron! 
+                         Come on, get out of bed!
+ 
+                                     RON WEASLEY
 
-FIONA
-No, you're right. It doesn't.
+                         Why?
 
-Donkey watches this exchange with a curious look on his face.
+                                     HARRY
 
+                         There's something you've got to see! 
+                         Now, come on! Come on! Come! Come look! 
+                         It's my parents!
+ 
+                                     RON WEASLEY
 
-FARQUAAD
-Princess Fiona, beautiful, fair, flawless 
-Fiona. I ask your hand in marriage. 
-Will you be the perfect bride for the 
-perfect groom?
+                         I only see us.
 
-FIONA
-Lord Farquaad, I accept. Nothing would 
-make - -
+                                     HARRY
 
-FARQUAAD
-(interrupting) Excellent! I'll start 
-the plans, for tomorrow we wed!
+                         Look in properly. Go on, stand there. 
+                         There. You see them don't you? That's---
+ 
+                         
+                                     RON WEASLEY
 
-FIONA
-No! I mean, uh, why wait? Let's get 
-married today before the sun sets.
+                         That's me! Only, I'm Head Boy. And I'm 
+                         holding the Quidditch Cup. And bloody 
+                         hell! I'm Quidditch captain too! I look 
+                         good! Harry, do you think this mirror 
+                         shows the future?
+ 
+                                     HARRY
 
+                         How can it? Both my parents are dead.
+ 
+                         
+                                     
 
-FARQUAAD
-Oh, anxious, are you? You're right. 
-The sooner, the better. There's so much 
-to do! There's the caterer, the cake, 
-the band, the guest list. Captain, round 
-up some guests! (a guard puts Fiona 
-on the back of his horse)
+                         
+                                     DUMBLEDORE
 
-FIONA
-Fare-thee-well, ogre.
+                         Back again Harry? I see that you, like 
+                         many others before you have discovered 
+                         the delights of the Mirror of Erised. 
+                         I trust now, you realize what it what 
+                         it does. Let me give you a clue. The 
+                         happiest man on earth would look in 
+                         the mirror and only see himself exactly 
+                         as he is.
+ 
+                                     HARRY
 
-Farquaad's whole party begins to head back to DuLoc. Donkey watches 
-them go.
+                         So then, it shows us what we want... 
+                         Whatever we want?
+ 
+                                     DUMBLEDORE
 
-DONKEY
-Shrek, what are you doing? You're letting 
-her get away.
+                         Yes, and no. It shows us nothing more 
+                         or less then the deepest and most desperate 
+                         desires of our hearts. Now you Harry, 
+                         who have never known your family you 
+                         see them standing beside you. But remember 
+                         this, Harry. This mirror gives us neither 
+                         knowledge or truth. Men have wasted 
+                         away in front of it. Even gone mad. 
+                         That is why tomorrow it will be moved 
+                         to a new home. And I must ask you not 
+                         to go looking for it again. It does 
+                         not do to dwell on dreams, Harry, and 
+                         forget to live.
+ 
+                                     
 
-SHREK
-Yeah? So what?
+                         - - - -
 
-DONKEY
-Shrek, there's something about her you 
-don't know. Look, I talked to her last 
-night, She's - -
+                                     HERMIONE
 
-SHREK
-I know you talked to her last night. 
-You're great pals, aren't ya? Now, if 
-you two are such good friends, why don't 
-you follow her home?
+                         I had you looking in the wrong section! 
+                         How could I be so stupid? I checked 
+                         this out weeks ago for a bit of light 
+                         reading!
+ 
+                                     RON WEASLEY
 
-DONKEY
-Shrek, I - - I wanna go with you.
+                         This is light?
 
-SHREK
-I told you, didn't I? You're not coming 
-home with me. I live alone! My swamp! 
-Me! Nobody else! Understand? Nobody! 
-Especially useless, pathetic, annoying, 
-talking donkeys!
+                                     HERMIONE
 
-DONKEY
-But I thought - -
+                         Of course! Here it is! "Nicholas Flamel 
+                         is the only known maker of the Sorcerer's 
+                         Stone
+ 
+                                     H&RON WEASLEY
 
-SHREK
-Yeah. You know what? You thought wrong! 
-(stomps off)
+                         The what?
 
-DONKEY
-Shrek.
+                                     HERMIONE
 
-Montage of different scenes. Shrek arriving back home. Fiona 
-being fitted for the wedding dress. Donkey at a stream running 
-into the dragon. Shrek cleaning up his house. Fiona eating dinner 
-alone. Shrek eating dinner alone.
+                         Honestly don't you two read? "The Sorcerer's 
+                         Stone is a legendary substance with 
+                         astonishing powers. It will transform 
+                         any metal into pure gold and produce 
+                         the Elixir of Life which will make the 
+                         drinker immortal."
+ 
+                                     RON WEASLEY
 
-SHREK'S HOME
+                         Immortal!
 
-Shrek is eating dinner when he hears a sound outside. He goes 
-outside to investigate.
+                                     HERMIONE
 
-SHREK
-Donkey? (Donkey ignores him and continues 
-with what he's doing.) What are you 
-doing?
+                         It means you'll never die.
 
-DONKEY
-I would think, of all people, you would 
-recognize a wall when you see one.
+                                     RON WEASLEY
 
+                         I know what it means!
 
-SHREK
-Well, yeah. But the wall's supposed 
-to go around my swamp, not through it.
+                                     HERMIONE
 
+                         The only stone currently in existence 
+                         belongs to Mr. Nicholas Flamel, the 
+                         noted alchemist who last year celebrated 
+                         his 665th birthday." That's what Fluffy's 
+                         guarding on the third floor. That's 
+                         what's under the trap door. The Sorcerer's 
+                         Stone.
+ 
+                                     HARRY
 
-DONKEY
-It is around your half. See that's your 
-half, and this is my half.
+                         Hagrid!
 
-SHREK
-Oh! Your half. Hmm.
+                                     HAGRID
 
-DONKEY
-Yes, my half. I helped rescue the princess. 
-I did half the work. I get half the 
-booty. Now hand me that big old rock, 
-the one that looks like your head.
+                         Oh, hello. I don't wish to be rude, 
+                         but I'm in no fit state to entertain 
+                         today.
+ 
+                                     H&R&HERMIONE
 
+                         We know about the Sorcerer's Stone!
+ 
+                         
+                                     
 
-SHREK
-Back off!
+                         g; Oh.
 
-DONKEY
-No, you back off.
+                                     HARRY
 
-SHREK
-This is my swamp!
+                         We think Snape's trying to steal it.
+ 
+                         
+                                     HAGRID
 
-DONKEY
-Our swamp.
+                         Snape? Blimey, you're still on about 
+                         him, are you?
+ 
+                                     HARRY
 
-SHREK
-(grabs the tree branch Donkey is working 
-with) Let go, Donkey!
+                         Hagrid! We know he's after the Stone 
+                         we just don't know why!
+ 
+                                     HAGRID
 
-DONKEY
-You let go.
+                         Snape is one of the teachers protecting 
+                         the Stone! He's not about to steal it.
+ 
+                         
+                                     HARRY
 
-SHREK
-Stubborn jackass!
+                         What?
 
-DONKEY
-Smelly ogre.
+                                     HAGRID
 
-SHREK
-Fine! (drops the tree branch and walks 
-away)
+                         You heard. Right, now, come on, I'm 
+                         a bit preoccupied today.
+ 
+                                     HARRY
 
-DONKEY
-Hey, hey, come back here. I'm not through 
-with you yet.
+                         Wait a minute! "One of the teachers"?
+ 
+                         
+                                     HERMIONE
 
-SHREK
-Well, I'm through with you.
+                         Of course! There are other things defending 
+                         the Stone, aren't there? Spells, enchantments?
+ 
+                         
+                                     HAGRID
 
-DONKEY
-Uh-uh. You know, with you it's always, 
-"Me, me, me!" Well, guess what! Now 
-it's my turn! So you just shut up and 
-pay attention! You are mean to me. You 
-insult me and you don't appreciate anything 
-that I do! You're always pushing me 
-around or pushing me away.
+                         Right. Waste of bloody time if you ask 
+                         me. Ain't no one gonna get past Fluffy. 
+                         Ain't a soul knows how, except me and 
+                         Dumbledore. I shouldn't have told you 
+                         that. I should not have told you that.
+ 
+                         
+                                     HARRY
 
-SHREK
-Oh, yeah? Well, if I treated you so 
-bad, how come you came back?
+                         Hagrid, what exactly is that?
 
-DONKEY
-Because that's what friends do! They 
-forgive each other!
+                                     HAGRID
 
-SHREK
-Oh, yeah. You're right, Donkey. I forgive 
-you... for stabbin' me in the back! 
-(goes into the outhouse and slams the 
-door)
+                         Oh, That? It's a...it's um...
 
-DONKEY
-Ohh! You're so wrapped up in layers, 
-onion boy, you're afraid of your own 
-feelings.
+                                     RON WEASLEY
 
-SHREK
-(os) Go away!
+                         I know what that is! But Hagrid how 
+                         did you get one?
+ 
+                                     HAGRID
 
-DONKEY
-There you are , doing it again just 
-like you did to Fiona. All she ever 
-do was like you, maybe even love you.
+                         I won it! Off a stranger I met at the 
+                         pub. Seemed quite glad to be rid of 
+                         it, as a matter of fact.
+ 
+                                     HERMIONE
 
+                         Is that...a dragon?
 
-SHREK
-(os) Love me? She said I was ugly, a 
-hideous creature. I heard the two of 
-you talking.
+                                     RON WEASLEY
 
-DONKEY
-She wasn't talkin' about you. She was 
-talkin' about, uh, somebody else.
+                         That's not just a dragon! That's a Norwegian 
+                         Ridgeback! My brother Charlie works 
+                         with these in Romania.
+ 
+                                     HAGRID
 
+                         Isn't he beautiful? Oh bless him look, 
+                         he knows his mummy! Hello Norbert!
+ 
+                         
+                                     HARRY
 
-SHREK
-(opens the door and comes out) She wasn't 
-talking about me? Well, then who was 
-she talking about?
+                         Norbert?
 
-DONKEY
-Uh-uh, no way. I ain't saying anything. 
-You don't wanna listen to me. Right? 
-Right?
+                                     HAGRID
 
-SHREK
-Donkey!
+                         Well he's gotta have a name don't he? 
+                         Don't you Norbert? Te de de de de! Oh! 
+                         Woah! He'll have to be trained up a 
+                         bit of course. Who's that?
+ 
+                                     HARRY
 
-DONKEY
-No!
+                         Malfoy.
 
-SHREK
-Okay, look. I'm sorry, all right? (sigh) 
-I'm sorry. I guess I am just a big, 
-stupid, ugly ogre. Can you forgive me?
+                                     HAGRID
 
+                         Oh, dear.
 
-DONKEY
-Hey, that's what friends are for, right?
+                                     HARRY
 
+                         Hagrid always wanted a dragon. He told 
+                         me so the first time I ever met him.
+ 
+                         
+                                     RON WEASLEY
 
-SHREK
-Right. Friends?
+                         It's crazy! And worse Malfoy knows.
+ 
+                         
+                                     HERMIONE
 
-DONKEY
-Friends.
+                         I don't understand. Is that bad?
 
-SHREK
-So, um, what did Fiona say about me?
+                                     RON WEASLEY
 
+                         It's bad.
 
-DONKEY
-What are you asking me for? Why don't 
-you just go ask her?
+                                     MCGONAGALL
 
-SHREK
-The wedding! We'll never make it in 
-time.
+                         Good evening. Nothing I repeat nothing 
+                         gives a student the right to walk about 
+                         the school at night. Therefore as punishment 
+                         for your actions, 50 points will be 
+                         taken.
+ 
+                                     HARRY
 
-DONKEY
-Ha-ha-ha! Never fear, for where, there's 
-a will, there's a way and I have a way. 
-(whistles)
+                         50!
 
-Suddenly the dragon arrives overhead and flies low enough so 
-they can climb on.
+                                     MCGONAGALL
 
-SHREK
-Donkey?
+                         Each. And to ensure that it doesn't 
+                         happen again all four of you will receive 
+                         detention.
+ 
+                                     DRACO MALFOY
 
-DONKEY
-I guess it's just my animal magnetism.
+                         Excuse me professor. Perhaps I heard 
+                         you wrong. I thought you said the four 
+                         of us.
+ 
+                                     MCGONAGALL
 
+                         No you heard me correctly Mr. Malfoy. 
+                         You see, honorable as your intentions 
+                         were you too were out of bed after hours. 
+                         You will join you classmates in detention.
+ 
+                         
+                                     
 
-They both laugh.
+                         
+                                     FILCH
 
-SHREK
-Aw, come here, you. (gives Donkey a 
-noogie)
+                         A pity they let the old punishments 
+                         die. Was a time detention found you 
+                         hanging by your thumbs in the dungeons. 
+                         God, I'll miss the screaming. You'll 
+                         be serving detention with Hagrid tonight. 
+                         He's got a little job to do inside the 
+                         Dark Forest. A sorry lot, this, Hagrid. 
+                         Oh good God you're not still on about 
+                         that bloody dragon now are you?
+ 
+                                     HAGRID
 
-DONKEY
-All right, all right. Don't get all 
-slobbery. No one likes a kiss ass. All 
-right, hop on and hold on tight. I haven't 
-had a chance to install the seat belts 
-yet.
+                         Norbert's gone. Dumbledore sent him 
+                         off to Romania to live in a colony.
+ 
+                         
+                                     HERMIONE
 
-They climb aboard the dragon and she takes off for DuLoc.
+                         Well, that's good isn't it? He'll be 
+                         with his own kind.
+ 
+                                     HAGRID
 
-DULOC - CHURCH
+                         Yeah, but what if he don't like Romania? 
+                         What if the other dragons are mean to 
+                         him? He's only a baby after all.
+ 
+                                     FILCH
 
-Fiona and Farquaad are getting married. The whole town is there. 
-The prompter card guy holds up a card that says 'Revered Silence'.
+                         Oh, for God's sake pull yourself together 
+                         man. You're going into the Forest after 
+                         all. Got to have your wits about you.
+ 
+                         
+                                     DRACO MALFOY
 
+                         The Forest? I thought that was a joke. 
+                         We can't go in there. Students aren't 
+                         allowed. And there are... werewolves!
+ 
+                         
+                                     FILCH
 
-PRIEST
-People of DuLoc, we gather here today 
-to bear witness to the union....
+                         Ah, there's more that werewolves in 
+                         those trees, lad. You can be sure of 
+                         that. Nighty- night.
+ 
+                                     HAGRID
 
-FIONA
-(eyeing the setting sun) Um-
+                         Right, let's go.
 
-PRIEST
-...of our new king...
+                                     
 
-FIONA
-Excuse me. Could we just skip ahead 
-to the "I do's"?
+                         
+                                     HARRY
 
-FARQUAAD
-(chuckles and then motions to the priest 
-to indulge Fiona) Go on.
+                         Hagrid, what is that?
 
-COURTYARD
+                                     HAGRID
 
-Some guards are milling around. Suddenly the dragon lands with 
-a boom. The guards all take off running.
+                         What we're here for. See that? That's 
+                         unicorn blood, that is. I found one 
+                         dead a few weeks ago. Now, this one's 
+                         been hurt bad by something. So, it's 
+                         our job to go and find the poor beast. 
+                         Ron, Hermione, you'll come with me.
+ 
+                         
+                                     RON WEASLEY
 
-DONKEY
-(to Dragon) Go ahead, HAVE SOME FUN. 
-If we need you, I'll whistle. How about 
-that? (she nods and goes after the guards) 
-Shrek, wait, wait! Wait a minute! You 
-wanna do this right, don't you?
+                         Okay...
 
-SHREK
-(at the Church door) What are you talking 
-about?
+                                     HAGRID
 
-DONKEY
-There's a line you gotta wait for. The 
-preacher's gonna say, "Speak now or 
-forever hold your peace." That's when 
-you say, "I object!"
+                         And Harry, you'll go with Malfoy.
 
-SHREK
-I don't have time for this!
+                                     DRACO MALFOY
 
-DONKEY
-Hey, wait. What are you doing? Listen 
-to me! Look, you love this woman, don't 
-you?
+                         Okay, then I get Fang!
 
-SHREK
-Yes.
+                                     HAGRID
 
-DONKEY
-You wanna hold her?
+                         Fine. Just so you know he's bloody coward.
+ 
+                         
+                                     DRACO MALFOY
 
-SHREK
-Yes.
+                         Wait till my father hears about this! 
+                         This is servant stuff.
+ 
+                                     HARRY
 
-DONKEY
-Please her?
+                         If I didn't know better Draco, I'd say 
+                         you were scared.
+ 
+                                     DRACO MALFOY
 
-SHREK
-Yes!
+                         Scared Potter. Did you hear that?
 
-DONKEY
-(singing James Brown style) Then you 
-got to, got to try a little tenderness. 
-(normal) The chicks love that romantic 
-crap!
+                                     HARRY
 
-SHREK
-All right! Cut it out. When does this 
-guy say the line?
+                         Come on Fang!
 
-DONKEY
-We gotta check it out.
+                                     DRACO MALFOY
 
-INSIDE CHURCH
+                         Scared!
 
-As the priest talks we see Donkey's shadow through one of the 
-windows Shrek tosses him up so he can see.
+                                     
 
-PRIEST
-And so, by the power vested in me...
+                         
+                                     HARRY
 
+                         What is it Fang?
 
-Outside
+                                     DRACO MALFOY
 
-SHREK
-What do you see?
+                         AH!
 
-DONKEY
-The whole town's in there.
+                                     FIRENZE
 
-Inside
+                         Harry Potter, you must leave. You are 
+                         known to many creatures here. The Forest 
+                         is not safe at this time. Especially 
+                         for you.
+ 
+                                     HARRY
 
-PRIEST
-I now pronounce you husband and wife...
+                         But what was that thing you saved me 
+                         from?
+ 
+                                     FIRENZE
 
+                         A monstrous creature. It is a terrible 
+                         crime to slay a unicorn. Drinking the 
+                         blood of a unicorn will keep you alive 
+                         even if you are an inch from death. 
+                         But at a terrible price. For you have 
+                         slain something so pure that the moment 
+                         the blood touches your lips you have 
+                         a half-life, a cursed life.
+ 
+                                     HARRY
 
-Outside
+                         But who would choose such a life?
 
-DONKEY
-They're at the altar.
+                                     FIRENZE
 
-Inside
+                         Can you think of no one?
 
-PRIEST
-...king and queen.
+                                     HARRY
 
-Outside
+                         You mean to say that thing that killed 
+                         the unicorn, that was drinking its blood, 
+                         that was Voldemort?
+ 
+                                     FIRENZE
 
-DONKEY
-Mother Fletcher! He already said it.
+                         Do you know what is hidden in the school 
+                         at this very moment, Mr. Potter?
+ 
+                                     HARRY
 
+                         The Sorcerer's Stone!
 
-SHREK
-Oh, for the love of Pete!
+                                     HERMIONE
 
-He runs inside without catching Donkey, who hits the ground hard.
+                         Harry!
 
+                                     HAGRID
 
-INSIDE CHURCH
+                         Hello there Firenze. See you've met 
+                         our young Mr. Potter. All right there 
+                         Harry?
+ 
+                                     FIRENZE
 
-SHREK
-(running toward the alter) I object!
+                         Harry Potter, this is where I leave 
+                         you. You are safe now. Good luck.
+ 
+                         
+                                     
 
+                         
+                                     HERMIONE
 
-FIONA
-Shrek?
+                         You mean, that You- Know- Who is out 
+                         there right now in the Forest?
+ 
+                                     HARRY
 
-The whole congregation gasps as they see Shrek.
+                         But he's weak. He's living off of unicorns. 
+                         Don't you see? We had it wrong! Snape 
+                         doesn't want the Stone for himself. 
+                         He wants the Stone for Voldemort. With 
+                         the Elixir of Life, Voldemort will become 
+                         strong again. He, he'll come back.
+ 
+                         
+                                     RON WEASLEY
 
-FARQUAAD
-Oh, now what does he want?
+                         But if he comes back, you don't think 
+                         he'll try to kill you, do you?
+ 
+                                     HARRY
 
-SHREK
-(to congregation as he reaches the front 
-of the Church) Hi, everyone. Havin' 
-a good time, are ya? I love DuLoc, first 
-of all. Very clean.
+                         I think if he had his chance he would 
+                         have tried to kill me tonight.
+ 
+                                     RON WEASLEY
 
-FIONA
-What are you doing here?
+                         And to think, I've been worrying about 
+                         my Potions final.
+ 
+                                     HERMIONE
 
-SHREK
-Really, it's rude enough being alive 
-when no one wants you, but showing up 
-uninvited to a wedding...
+                         Hang on a minute. We're forgetting one 
+                         thing. Who's the one wizard Voldemort 
+                         is always feared? Dumbledore. As long 
+                         as Dumbledore's around, Harry, you're 
+                         safe. As long as Dumbledore's around 
+                         you can't be touched.
+ 
+                                     
 
-SHREK
-Fiona! I need to talk to you.
+                         
+                                     
 
-FIONA
-Oh, now you wanna talk? It's a little 
-late for that, so if you'll excuse me 
-- -
+                         - - - -
 
-SHREK
-But you can't marry him.
+                                     HERMIONE
 
-FIONA
-And why not?
+                         I'd heard Hogwarts' final exams were 
+                         frightful, but I found they're rather 
+                         enjoyable
+ 
+                                     RON WEASLEY
 
-SHREK
-Because- - Because he's just marring 
-you so he can be king.
+                         Speak for yourself. All right there 
+                         Harry?
+ 
+                                     HARRY
 
-FARQUAAD
-Outrageous! Fiona, don't listen to him.
+                         My scar. It keeps burning.
 
+                                     HERMIONE
 
-SHREK
-He's not your true love.
+                         It's happened before.
 
-FIONA
-And what do you know about true love?
+                                     HARRY
 
+                         Not like this.
 
-SHREK
-Well, I - - Uh - - I mean - -
+                                     RON WEASLEY
 
-FARQUAAD
-Oh, this is precious. The ogee has fallen 
-in love with the princess! Oh, good 
-Lord. (laughs)
+                         Perhaps you should see the nurse.
 
-The prompter card guy holds up a card that says 'Laugh'. The 
-whole congregation laughs.
+                                     HARRY
 
-FARQUAAD
-An ogre and a princess!
+                         I think it's a warning. It means danger's 
+                         coming. Ah. Oh, Of Course.
+ 
+                                     HERMIONE
 
-FIONA
-Shrek, is this true?
+                         What is it?
 
-FARQUAAD
-Who cares? It's preposterous! Fiona, 
-my love, we're but a kiss away from 
-our "happily ever after." Now kiss me! 
-(puckers his lips and leans toward her, 
-but she pulls back.)
+                                     HARRY
 
-FIONA
-(looking at the setting sun) "By night 
-one way, by day another." (to Shrek) 
-I wanted to show you before.
+                         Don't you think it's a bit odd that 
+                         what Hagrid want more than anything 
+                         is a dragon and a stranger turns up 
+                         and just happens to have one? I mean, 
+                         how many people wander around with dragon 
+                         eggs in their pockets? Why didn't I 
+                         see it before? Hagrid, who gave you 
+                         that dragon egg? What did he look like?
+ 
+                         
+                                     HAGRID
 
-She backs up and as the sun sets she changes into her ogre self. 
-She gives Shrek a sheepish smile.
+                         I dunno. I never saw his face. He kept 
+                         his hood up.
+ 
+                                     HARRY
 
-SHREK
-Well, uh, that explains a lot. (Fiona 
-smiles)
+                         This stranger though, you and he must 
+                         have talked.
+ 
+                                     HAGRID
 
-FARQUAAD
-Ugh! It's disgusting! Guards! Guards! 
-I order you to get that out of my sight 
-now! Get them! Get them both!
+                         Well, he wanted to know what sort of 
+                         creatures I looked after. And I told 
+                         him, after Fluffy a dragon's gonna be 
+                         no problem.
+ 
+                                     HARRY
 
-The guards run in and separate Fiona and Shrek. Shrek fights 
-them.
+                         Did he seem interested in Fluffy?
 
-SHREK
-No, no!
+                                     HAGRID
 
-FIONA
-Shrek!
+                         Well of course he was interested in 
+                         Fluffy! How often do you come across 
+                         three headed dogs do you come across 
+                         even if you're in the trade? But I told 
+                         him, I said, I said, "The trick with 
+                         any beast is to know how to calm him." 
+                         Take Fluffy for example, just play him 
+                         a bit of music and he falls straight 
+                         asleep. I shouldn't have told you that. 
+                         Where are you going? Where are you---?
+ 
+                         
+                                     
 
-FARQUAAD
-This hocus-pocus alters nothing. This 
-marriage is binding, and that makes 
-me king! See? See?
+                         
+                                     HARRY
 
-FIONA
-No, let go of me! Shrek!
+                         We have to see professor Dumbledore 
+                         immediately!
+ 
+                                     HARRY
 
-SHREK
-No!
+                         We have to see Professor Dumbledore 
+                         immediately!
+ 
+                                     MCGONAGALL
 
-FARQUAAD
-Don't just stand there, you morons.
+                         I’m afraid Professor Dumbledore’s not 
+                         here. He received an urgent owl from 
+                         the Ministry of Magic and left immediately 
+                         for London.
+ 
+                                     HARRY
 
+                         He’s gone! But this is important! This 
+                         is about the Sorcerer’s Stone!
+ 
+                                     MCGONAGALL
 
-SHREK
-Get out of my way! Fiona! Arrgh!
+                         How did you know ---?
 
-FARQUAAD
-I'll make you regret the day we met. 
-I'll see you drawn and quartered! You'll 
-beg for death to save you!
+                                     HARRY
 
-FIONA
-No, Shrek!
+                         Someone’s going to try to steal it!
+ 
+                         
+                                     MCGONAGALL
 
-FARQUAAD
-(hold a dagger to Fiona's throat) And 
-as for you, my wife...
+                         I don’t know how you three found out 
+                         about the Stone but I assure you it 
+                         is perfectly well protected. Now would 
+                         you go back to your dormitories quietly.
+ 
+                         
+                                     HARRY
 
-SHREK
-Fiona!
+                         That was no stranger Hagrid met. It 
+                         was Snape. Which means that he knows 
+                         how to get past Fluffy.
+ 
+                                     HERMIONE
 
-FARQUAAD
-I'll have you locked back in that tower 
-for the rest of your days! I'm king!
+                         And with Dumbledore gone---
 
+                                     SEVERUS SNAPE
 
-Shrek manages to get a hand free and he whistles.
+                         Good afternoon. Now, what would three 
+                         young Gryffindors, such as yourselves 
+                         be doing inside on a day like this?
+ 
+                         
+                                     HERMIONE
 
-FARQUAAD
-I will have order! I will have perfection! 
-I will have - - (Donkey and the dragon 
-show up and the dragon leans down and 
-eats Farquaad) Aaaah! Aah!
+                         We were... we were just---
 
-DONKEY
-All right. Nobody move. I got a dragon 
-here, and I'm not afraid to use it. 
-(The dragon roars.) I'm a donkey on 
-the edge!
+                                     SEVERUS SNAPE
 
-The dragon belches and Farquaad's crown flies out of her mouth 
-and falls to the ground.
+                         You’d ought to be careful. People willht 
+                         think you’re up to something.
+ 
+                                     HERMIONE
 
-DONKEY
-Celebrity marriages. They never last, 
-do they?
+                         Now what are we do?
 
-The congregation cheers.
+                                     HARRY
 
-DONKEY
-Go ahead, Shrek.
+                         We go down the trap door, tonight.
+ 
+                         
+                                     
 
-SHREK
-Uh, Fiona?
+                         
+                                     HARRY
 
-FIONA
-Yes, Shrek?
+                         Trevor.
 
-SHREK
-I - - I love you.
+                                     RON WEASLEY
 
-FIONA
-Really?
+                         Trevor, sh, go you shouldn’t be here!
+ 
+                         
+                                     NEVILLE
 
-SHREK
-Really, really.
+                         Neither should you. You’re sneaking 
+                         out again aren’t you?
+ 
+                                     HARRY
 
-FIONA
-(smiles) I love you too.
+                         Now Neville listen. We were... we were---
+ 
+                         
+                                     NEVILLE
 
-Shrek and Fiona kiss. Thelonius takes one of the cards and writes 
-'Awwww' on the back and then shows it to the congregation.
+                         No I won’t let you! You’ll get Gryffindor 
+                         into trouble again! I’ll, I’ll fight 
+                         you!
+ 
+                                     HERMIONE
 
+                         Neville, I’m really really sorry about 
+                         this. Petrificus totalus!
+ 
+                                     RON WEASLEY
 
-CONGREGATION
-Aawww!
+                         You’re a little scary sometimes, you 
+                         know that. Brilliant, but scary.  
+ 
+                         
+                                     HARRY
 
-Suddenly the magic of the spell pulls Fiona away. She's lifted 
-up into the air and she hovers there while the magic works around 
-her.
+                         Let’s go.
 
-WHISPERS
-"Until you find true love's first kiss 
-and then take love's true form. Take 
-love's true form. Take love's true form."
+                                     HARRY
 
+                         Sorry.
 
-Suddenly Fiona's eyes open wide. She's consumed by the spell 
-and then is slowly lowered to the ground.
+                                     HERMIONE
 
-SHREK
-(going over to her) Fiona? Fiona. Are 
-you all right?
+                         Sorry.
 
-FIONA
-(standing up, she's still an ogre) Well, 
-yes. But I don't understand. I'm supposed 
-to be beautiful.
+                                     RON WEASLEY
 
-SHREK
-But you ARE beautiful.
+                         It’s for your own good you know.
 
-They smile at each other.
+                                     
 
-DONKEY
-(chuckles) I was hoping this would be 
-a happy ending.
+                         
+                                     HERMIONE
 
-Shrek and Fiona kiss...and the kiss fades into...
+                         Ow! You stood on my foot!
 
-THE SWAMP
+                                     
 
-...their wedding kiss. Shrek and Fiona are now married. 'I'm 
-a Believer' by Smashmouth is played in the background. Shrek 
-and Fiona break apart and run through the crowd to their awaiting 
-carriage. Which is made of a giant onion. Fiona tosses her bouquet 
-which both Cinderella and Snow White try to catch. But they end 
-up getting into a cat fight and so the dragon catches the bouquet 
-instead. The Gingerbread man has been mended somewhat and now 
-has one leg and walks with a candy cane cane. Shrek and Fiona 
-walk off as the rest of the guests party and Donkey takes over 
-singing the song.
+                          Sorry.
 
-GINGERBREAD MAN
-God bless us, every one.
+                                     HERMIONE
 
-DONKEY
-(as he's done singing and we fade to 
-black) Oh, that's funny. Oh. Oh. I can't 
-breathe. I can't breathe.
+                         Alohomora.
 
-THE END
+                                     HARRY
 
-`);
+                         Wait a minute. He’s snoring. Snape’s 
+                         already been here. He’s put a spell 
+                         on the harp.
+ 
+                                     RON WEASLEY
+
+                         Ugh! It’s got horrible breath.
+
+                                     HARRY
+
+                         We have to move its paw.
+
+                                     RON WEASLEY
+
+                         What?
+
+                                     HARRY
+
+                         Come on! Okay, push! I’ll go first. 
+                         Don’t follow me until I give you a sign. 
+                         If something bad happens get yourselves 
+                         out! Does it seem a bit quiet to you?
+ 
+                         
+                                     HERMIONE
+
+                         The harp, it stopped playing.
+
+                                     RON WEASLEY
+
+                         Ugh! Yuck! Ugh!
+
+                                     HARRY
+
+                         Jump!
+
+                                     RON WEASLEY
+
+                         Woah! Lucky this plant thing’s here 
+                         really! Woah!
+ 
+                                     HERMIONE
+
+                         Stop moving, both of you! This is Devil’s 
+                         Snare. You have to relax! If you don’t 
+                         it’ll only kill you faster!
+ 
+                                     RON WEASLEY
+
+                         Kill us faster? Oh now I can relax!
+ 
+                         
+                                     R&HARRY
+
+                         Hermione!
+
+                                     RON WEASLEY
+
+                         Oh now what are we going to do?
+
+                                     HERMIONE
+
+                         Just relax!
+
+                                     HARRY
+
+                         Hermione where are you?
+
+                                     HERMIONE
+
+                         Do what I say! Trust me!
+
+                                     RON WEASLEY
+
+                         Ah! Harry! Harry!
+
+                                     HERMIONE
+
+                         Are you okay?
+
+                                     HARRY
+
+                         Yeah, yeah I’m fine. (Ron Weasley: Help!)
+ 
+                         
+                                     HERMIONE
+
+                         He’s not relaxing is he? (Ron Weasley: 
+                         Help!)
+ 
+                                     HARRY
+
+                         Apparently not. (Ron Weasley: Help me!)
+ 
+                         
+                                     HERMIONE
+
+                         We’ve got to do something! (Ron Weasley: 
+                         Help!)
+ 
+                                     HARRY
+
+                         What? (Ron Weasley: Help!)
+
+                                     HERMIONE
+
+                         I remember reading something in Herbology. 
+                         (Ron Weasley: Help!) “Devil’s Snare 
+                         Devil’s Snare it’s deadly fun; but will 
+                         sulk in the sun.” That’s it! Devil’s 
+                         Snare hates sunlight! Lumus Solem!
+ 
+                         
+                                     HARRY
+
+                         Ron, are you okay?
+
+                                     RON WEASLEY
+
+                         Yeah. Lucky we didn’t panic!
+
+                                     
+
+                          Lucky Hermione pays attention in Herbology.
+ 
+                         
+                                     HERMIONE
+
+                         What is that?
+
+                                     HARRY
+
+                         I don’t know Sounds like wings.
+
+                                     HERMIONE
+
+                         Curious, I’ve never seen birds like 
+                         these.
+ 
+                                     HARRY
+
+                         They’re not birds they’re keys. And 
+                         I’ll bet one of then fits that door.
+ 
+                         
+                                     HERMIONE
+
+                         What’s this all about?
+
+                                     HARRY
+
+                         I don’t know. Strange.
+
+                                     RON WEASLEY
+
+                         Alohomora! Well, it was worth a try.
+ 
+                         
+                                     HERMIONE
+
+                         What are we going to do? There must 
+                         be a thousand keys up there!
+ 
+                                     RON WEASLEY
+
+                         We’re looking for a big old fashioned 
+                         one. Probably rusty like the handle.
+ 
+                         
+                                     HARRY
+
+                         There! I see it! The one with the broken 
+                         wing!
+ 
+                                     HERMIONE
+
+                         What’s wrong Harry?
+
+                                     HARRY
+
+                         It is too simple.
+
+                                     RON WEASLEY
+
+                         Oh, go on Harry! If Snape can catch 
+                         it on that old broomstick, you can! 
+                         You’re the youngest Seeker in a century! 
+                         This complicates things a bit!
+ 
+                                     HARRY
+
+                         Catch the key!
+
+                                     RON WEASLEY
+
+                         Hurry up!
+
+                                     
+
+                         
+                                     HERMIONE
+
+                         I don’t like this. I don’t like this 
+                         at all.
+ 
+                                     HARRY
+
+                         Where are we? A graveyard?
+
+                                     RON WEASLEY
+
+                         This is no graveyard, it’s a chessboard.
+ 
+                         
+                                     HARRY
+
+                         There’s the door!
+
+                                     HERMIONE
+
+                         Now what do we do?
+
+                                     RON WEASLEY
+
+                         Its obvious isn’t it? We’ve got to play 
+                         our way across the room. All right, 
+                         Harry, you take the empty bishop’s square. 
+                         Hermione you’ll be the queen-side castle. 
+                         As for me, I’ll be a knight.
+ 
+                                     HERMIONE
+
+                         What happens now?
+
+                                     RON WEASLEY
+
+                         Well, white moves first, and then we 
+                         play.
+ 
+                                     HERMIONE
+
+                         Ron you don’t suppose this’ll be like 
+                         real wizard’s chess do you?
+ 
+                                     RON WEASLEY
+
+                         You there D-5. Yes Hermione I think 
+                         this is gonna be exactly like wizard’s 
+                         chess. Castle to E-4! Pawn to C-3!
+ 
+                         
+                                     HARRY
+
+                         Wait a minute.
+
+                                     RON WEASLEY
+
+                         You understand right Harry. Once I make 
+                         my move the queen will take me. Then 
+                         you’re free to check the king.
+ 
+                                     HARRY
+
+                         No. Ron no!
+
+                                     HERMIONE
+
+                         What is it?
+
+                                     HARRY
+
+                         He is going to sacrifice himself!
+
+                                     HERMIONE
+
+                         No you can’t! There must be another 
+                         way!
+ 
+                                     RON WEASLEY
+
+                         Do you wanna stop Snape from getting 
+                         that Stone or not? Harry, it’s you that 
+                         has to go on. I know it! Not me! Not 
+                         Hermione! You! Knight to H-3. Check. 
+                         Ah!
+ 
+                                     HARRY
+
+                         Ron! No don’t move! Don’t forget we’re 
+                         still playing! Checkmate! Take care 
+                         of Ron then go to the owlery. Send a 
+                         message to Dumbledore. Ron’s right. 
+                         I have to go on.
+ 
+                                     HERMIONE
+
+                         You’ll be okay Harry. You’re a great 
+                         wizard. You really are.
+ 
+                                     HARRY
+
+                         Not as good as you.
+
+                                     HERMIONE
+
+                         Me? Books, cleverness. There are more 
+                         important things. Friendship and bravery. 
+                         And Harry, just be careful.
+ 
+                                     
+
+                         
+                                     HARRY
+
+                         You? No it can’t be; Snape he was he 
+                         was the one---
+ 
+                                     QUIRRELL
+
+                         Yes he does seem the type doesn’t he? 
+                         Next to him who would suspect p-p-poor 
+                         st-st-stuttering Professor Quirrell?
+ 
+                         
+                                     HARRY
+
+                         But that day, during the Quidditch match, 
+                         Snape tried to kill me.
+ 
+                                     QUIRRELL
+
+                         Oh no dear boy, I tried to kill you! 
+                         And trust me if Snape’s cloak hadn’t 
+                         caught on fire and broken my eye contact 
+                         I would have succeeded. Even with Snape 
+                         muttering his little counter-curse.
+ 
+                         
+                                     HARRY
+
+                         Snape was trying to save me?
+
+                                     QUIRRELL
+
+                         I knew you were a danger to me right 
+                         from the off. Especially after Halloween.
+ 
+                         
+                                     HARRY
+
+                         Then then you let the troll in!
+
+                                     QUIRRELL
+
+                         Very good Potter yes. Snape unfortunately 
+                         wasn’t fooled, when every one else was 
+                         running about the dungeon Snape went 
+                         to the third floor to head me of. He 
+                         of course never trusted me again. He 
+                         rarely left me alone. But he doesn’t 
+                         understand, I’m never alone. Never. 
+                         Now does this mirror do? I see what 
+                         I desire. I see myself holding the Stone. 
+                         But how do I get it?
+ 
+                                     VOLDEMORT
+
+                         Use the boy.
+
+                                     QUIRRELL
+
+                         Come here Potter! Now! Tell me what 
+                         do you see? What is it what do you see?
+ 
+                         
+                                     HARRY
+
+                         I’m shaking hands with Dumbledore. I’ve 
+                         won the House Cup.
+ 
+                                     VOLDEMORT
+
+                         He lies.
+
+                                     QUIRRELL
+
+                         Tell the truth! What do you see?
+
+                                     VOLDEMORT
+
+                         Let me speak to him.
+
+                                     QUIRRELL
+
+                         Master you are not strong enough.
+
+                                     VOLDEMORT
+
+                          have strength enough for this. Harry 
+                         Potter, we meet again.
+ 
+                                     HARRY
+
+                         Voldemort?
+
+                                     VOLDEMORT
+
+                         Yes, you see what I have become? See 
+                         what I must do to survive? Live off 
+                         another. A mere parasite. Unicorn blood 
+                         can sustain me but it cannot give me 
+                         a body of my own. But there is something 
+                         that can. Something that conveniently 
+                         enough lies in your pocket. Stop him! 
+                         Don’t be a fool! Why suffer a horrific 
+                         death when you can join with me and 
+                         live?
+ 
+                                     HARRY
+
+                         Never!
+
+                                     VOLDEMORT
+
+                         Bravery, your parents had it too. Tell 
+                         me Harry would you like to see your 
+                         mother and father again? Together we 
+                         can bring them back. All I ask is for 
+                         something in return. That’s it Harry. 
+                         There is no good and evil, there is 
+                         only power and those too weak to seek 
+                         it. Together we'll do extraordinary 
+                         things. Just give me the Stone!
+ 
+                                     HARRY
+
+                         You liar!
+
+                                     VOLDEMORT
+
+                         Kill him!
+
+                                     QUIRRELL
+
+                         What is this magic?
+
+                                     VOLDEMORT
+
+                         Fool get the Stone! 
+
+                                     
+
+                         
+                                     DUMBLEDORE
+
+                         Good afternoon Harry. Tokens from your 
+                         admirers.
+ 
+                                     HARRY
+
+                         Admirers?
+
+                                     DUMBLEDORE
+
+                         What happened down in the dungeons between 
+                         you and Professor Quirrell is a complete 
+                         secret. So naturally the whole school 
+                         knows. Ah, I see that your friend Ronald 
+                         has saved you the trouble of opening 
+                         your Chocolate Frogs.
+ 
+                                     HARRY
+
+                         Ron was here? Is he alright? What about 
+                         Hermione?
+ 
+                                     DUMBLEDORE
+
+                         Fine. They're both just fine.
+
+                                     HARRY
+
+                         Bu, what happened to the Stone?
+
+                                     DUMBLEDORE
+
+                         Relax dear boy. The Stone has been destroyed. 
+                         My friend Nicholas and I have had a 
+                         little chat and agreed it was best all 
+                         around.
+ 
+                                     HARRY
+
+                         But then Flamel, he'll die won't he?
+ 
+                         
+                                     DUMBLEDORE
+
+                         He has enough Elixir of Life to set 
+                         his affairs in order. But yes, he will 
+                         die.
+ 
+                                     HARRY
+
+                         How is it I got the Stone sir? One minute 
+                         I was there staring in the mirror and 
+                         then the next---
+ 
+                                     DUMBLEDORE
+
+                         Ah, you see only a person who wanted 
+                         to find the Stone, find it, but not 
+                         use it would be able to get it. That 
+                         is one of my more brilliant ideas. And 
+                         between you and me that is saying something.
+ 
+                         
+                                     HARRY
+
+                         Does that mean with the Stone gone that 
+                         is, that Voldemort can never come back?
+ 
+                         
+                                     DUMBLEDORE
+
+                         Ah, I'm afraid there are ways in which 
+                         he can return. Harry do you know why 
+                         Professor Quirrell couldn't bear to 
+                         have you touch him? It was because of 
+                         your mother. She sacrificed herself 
+                         for you. And that kind of act leaves 
+                         a mark. No, no this kind of mark cannot 
+                         be seen. It lives in your very skin.
+ 
+                         
+                                     HARRY
+
+                         What is it?
+
+                                     DUMBLEDORE
+
+                         Love Harry. Love. Bertie Bott's Every 
+                         Flavor Beans. I was most unfortunate 
+                         in my youth to come across a vomit flavor 
+                         one. Since then I'm afraid I've lost 
+                         my liking for them. But I think I could 
+                         be safe with a nice toffee. Alas! Earwax!
+ 
+                         
+                                     HARRY
+
+                         Alright there Ron?
+
+                                     RON WEASLEY
+
+                         Alright. You?
+
+                                     HARRY
+
+                         Alright. Hermione?
+
+                                     HERMIONE
+
+                         Never better.
+
+                                     
+
+                         
+                                     DUMBLEDORE
+
+                         Another year gone. And now as I understand 
+                         it, the House Cup needs awarding. And 
+                         the points stand as thus: In fourth 
+                         place, Gryffindor with 312 points. Third 
+                         place, Hufflepuff with 352 points. In 
+                         second place Ravenclaw with 426 points. 
+                         And in first place, with 472 points, 
+                         Slytherin House.
+ 
+                                     DRACO MALFOY
+
+                         Nice one mate.
+
+                                     DUMBLEDORE
+
+                         Yes, yes. Well-done Slytherin. Well-done 
+                         Slytherin. However recent events must 
+                         be taken into account. And I have a 
+                         few last-minute points to award. To 
+                         Miss. Hermione Granger, for the cool 
+                         use of intellect when others were in 
+                         grave peril. 50 points. Second, to Mr. 
+                         Ronald Weasley, for the best-played 
+                         game of chess Hogwarts has seen these 
+                         many years. 50 points. And third, to 
+                         Mr. Harry Potter, for pure nerve and 
+                         outstanding courage. I award Gryffindor 
+                         House 60 points.
+ 
+                                     HERMIONE
+
+                         We're tied with Slytherin!
+
+                                     DUMBLEDORE
+
+                         And finally, it takes a great deal of 
+                         bravery to stand up to your enemies. 
+                         But a great deal more to stand up to 
+                         your friends. I award 10 points to Neville 
+                         Longbottom. Assuming my calculations 
+                         are correct I believe that a change 
+                         of decoration is in order. Gryffindor 
+                         wins the House Cup!
+ 
+                                     HAGRID
+
+                         Yes!
+
+                                     
+
+                         
+                                     
+
+                         - - - -
+
+                                     HAGRID
+
+                         Come on now. Hurry up, you'll be late! 
+                         Train's leaving. Go on. Come on, hurry 
+                         up.
+ 
+                                     HERMIONE
+
+                         Come on Harry.
+
+                                     HARRY
+
+                         One minute.
+
+                                     HAGRID
+
+                         Thought you were leaving without saying 
+                         good-bye did you? This is for you.
+ 
+                         
+                                     HARRY
+
+                         Thanks Hagrid.
+
+                                     HAGRID
+
+                         Oh. Go on. On with you. On with you 
+                         now. On with you. Oh, listen, Harry. 
+                         If that dolt of a cousin of yours Dudley 
+                         gives you any grief you can always um... 
+                         threaten him, with a nice pair of ears 
+                         to go with that tail of his.
+ 
+                                     HARRY
+
+                         But Hagrid, we're not allowed to do 
+                         magic away from Hogwarts. You know that.
+ 
+                         
+                                     HAGRID
+
+                         I know that. But your cousin don't do 
+                         he?
+ 
+                                     HERMIONE
+
+                         Feels strange to be going home doesn't 
+                         it?
+ 
+                                     HARRY
+
+                         I'm not going home. Not really.
+
+                                     
+
+                                    THE END
